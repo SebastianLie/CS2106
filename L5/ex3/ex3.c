@@ -1,8 +1,8 @@
 /*************************************
 * Lab 5 Exercise 3
-* Name:
-* Student No:
-* Lab Group:
+* Name: LE TRUNG HIEU
+* Student No: A0161308M
+* Lab Group: 6
 *************************************/
 
 #include <stdio.h>
@@ -12,6 +12,8 @@
 #include <fcntl.h>
 #include <unistd.h>
 #include <string.h> //for memcpy()
+#include <stdbool.h>
+#include <math.h>
 
 /**************** Endian Conversion *************/
 
@@ -125,6 +127,11 @@ int handlePageFault( OS*, int, int*);
 
 void printOperatingSystem( OS* );
 
+int currentPtIndex = 0;
+
+int currentTlbIndex = 0;
+
+bool tlbFull = false;
 
 /**************** CPU ****************************/
 
@@ -161,11 +168,16 @@ void printCPU( cpu* );
 
 /**************** Other ****************************/
 
+int accessCnt = 0;
+int pageFaultCnt = 0;
+int tlbMissCnt = 0;
+
 int main()
 {
     
     char fileName[21];
     int i, numAccess, accessType, pageNum, offset, value;
+
 
     memory RAM;  
     OS myOS;
@@ -210,7 +222,7 @@ int main()
     //Memory access
     printf("Enter number of memory access: ");
     scanf("%i", &numAccess );
-
+    int successNumAccess = 0;
 
     for( i = 0; i < numAccess; ){
         scanf("%i", &accessType);
@@ -219,6 +231,7 @@ int main()
                 scanf("%i %i", &pageNum, &offset);
                 printf("Read %i.%i: ", pageNum, offset );
                 if( readMemAccess( &theCPU, pageNum, offset, &value)){
+                	successNumAccess++;
                     printf("%i\n", value);
                 } else {
                     printf("failed\n");
@@ -229,6 +242,7 @@ int main()
                 scanf("%i %i %i", &pageNum, &offset, &value);
                 printf("Write %i -> %i.%i : ", value, pageNum, offset );
                 if( writeMemAccess( &theCPU, pageNum, offset, value)){
+                	successNumAccess++;
                     printf("ok\n");
                 } else {
                     printf("failed\n");
@@ -254,7 +268,11 @@ int main()
     //    Print out the following statistics here:
     //    1. Total Number of access
     //    2. Percentage of TLB-Miss (2 place of precision)
-    //    3. Percentage of Page-Fault (2 place of precision)       
+    //    3. Percentage of Page-Fault (2 place of precision)   
+    printf("\n");    
+    printf("%d\n", successNumAccess);
+    printf("%0.2f\n", 	(tlbMissCnt * 1.0 / successNumAccess) * 100);
+    printf("%0.2f\n", (pageFaultCnt * 1.0 / successNumAccess) * 100);
 
     return 0;
 }
@@ -511,6 +529,7 @@ int handlePageFault( OS* os, int pageNum, int* victimPageNum )
 {
     int swapPageNum, frameNumber, replacedPageNum;
     page tempPage;
+    page resPage;
 
     //Remember, the "frameNumber" field is used as the swap page#
     // if the page is in disk
@@ -527,7 +546,12 @@ int handlePageFault( OS* os, int pageNum, int* victimPageNum )
     //   corresponding swap page. Figure out how to check whether 
     //   a page is dirty and perform the corresponding write
 
-    frameNumber = 0;
+    // frameNumber = 0;
+
+    pageFaultCnt++;
+
+    frameNumber = currentPtIndex;
+    currentPtIndex = (currentPtIndex + 1) % 8;
 
     //Check who's the page to be replaced?
     replacedPageNum = os->frameUsageTable[ frameNumber ];
@@ -537,9 +561,14 @@ int handlePageFault( OS* os, int pageNum, int* victimPageNum )
 
     //Update the victim's PTE
     if ( replacedPageNum != -1 ){
+        readOneFrame( os->physicalMem, &resPage, os->pageTable[ replacedPageNum ].frameNumber);
         os->pageTable[ replacedPageNum ].whereBit = IN_DISK;
         //In our case, the page is always written back to the same swap file page
         os->pageTable[ replacedPageNum ].frameNumber = replacedPageNum;
+
+        // HERE I IMPLEMENT WRITE-AROUND
+       
+        writeSwapPage( os->secStorage, &resPage, replacedPageNum);
     }
 
     //Load the page from secondary storage
@@ -619,7 +648,7 @@ int findFrameNumber(cpu* theCPU, int pageNum )
         //If any page is replaced, its corresponding TLB entry must be disabled
         if (victimPageNum != -1){
             tlbeIdxForVictim = searchTLB( theCPU->TLB, victimPageNum );
-            if (tlbeIdxForVictim != -1){   //TLB entry found for victim page
+            if (tlbeIdxForVictim != -1) {   //TLB entry found for victim page
                 theCPU->TLB[tlbeIdxForVictim].enableBit = DISABLED;
             }
         }
@@ -637,7 +666,16 @@ int findFrameNumber(cpu* theCPU, int pageNum )
         //     - If there is no disabled TLB entry, the 0th entry is
         //     used.
 
-        tlbeIdx = 0;   //change this
+		tlbMissCnt ++;
+
+        tlbeIdx = 0;
+        for(int i = 0; i < TLBSIZE; i ++) {
+        	if(theCPU->TLB[i].enableBit == DISABLED) {
+        		tlbeIdx = i;
+        		break;
+        	}
+        }
+
         theCPU->TLB[tlbeIdx].pageTableEntry = tempPTE;
         theCPU->TLB[tlbeIdx].enableBit = ENABLED;
         theCPU->TLB[tlbeIdx].pteNumber = pageNum;

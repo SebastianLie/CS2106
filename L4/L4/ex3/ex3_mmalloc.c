@@ -1,8 +1,8 @@
 /*************************************
 * Lab 4 Exercise 3
-* Name:
-* Student No:
-* Lab Group:
+* Name: LE TRUNG HIEU
+* Student No: A0161308M
+* Lab Group: 6
 *************************************/
 
 #include <stdio.h>

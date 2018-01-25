@@ -1,0 +1,5005 @@
+Integer is 4 bytes. Should be 4-bytes (32-bit).
+Enter swap file name: Enter program file to run: Enter number of memory access: Read 5.4: 144
+Write 1382 -> 8.2 : ok
+Read 10.0: 180
+Read 18.7: 251
+Write 1149 -> 29.1 : ok
+Read 31.3: failed
+Read 1.6: 114
+Read 5.7: 147
+Read 20.5: 265
+Read 33.12: failed
+Read 16.4: 232
+Read 10.0: 180
+Read 30.0: 340
+Read 24.6: 298
+Read 16.0: 228
+Read 0.2: 102
+Read 7.1: 157
+Read 25.0: 300
+Read 12.2: 198
+Read 3.4: 128
+Read 25.0: 300
+Write 1452 -> 1.7 : ok
+Read 9.3: 175
+Read 20.1: 261
+Read 11.4: 192
+Write 1544 -> 1.3 : ok
+Read 13.7: 211
+Read 31.3: failed
+Read 13.6: 210
+Read 31.1: failed
+Read 30.4: 344
+Read 27.5: 321
+Read 31.0: failed
+Read 22.5: 281
+Read 26.5: 313
+Read 0.2: 102
+Read 5.1: 141
+Write 1663 -> 0.1 : ok
+Read 7.7: 163
+Read 21.18: failed
+Read 15.5: 225
+Read 1.3: 1544
+Read 12.4: 200
+Read 9.7: 179
+Write 1203 -> 3.3 : ok
+Read 21.2: 270
+Read 19.7: 259
+Read 42.3: failed
+Write 1857 -> 2.3 : ok
+Read 7.0: 156
+Read 18.1: 245
+Read 7.4: 160
+Read 16.6: 234
+Write 1233 -> 14.5 : ok
+Read 2.5: 121
+Read 29.7: 339
+Read 27.6: 322
+Read 9.4: 176
+Read 16.7: 235
+Read 27.3: 319
+Read 13.3: 207
+Write 1052 -> 7.2 : ok
+Write 1453 -> 12.6 : ok
+Read 18.2: 246
+Read 22.2: 278
+Read 29.3: 335
+Read 8.7: 171
+Read 24.2: 294
+Read 4.5: 137
+Read 29.5: 337
+Write 1283 -> 8.1 : ok
+Read 21.6: 274
+Read 8.0: 164
+Read 24.2: 294
+Read 1.6: 114
+Read 8.2: 1382
+Read 18.7: 251
+Read 4.5: 137
+Read 24.1: 293
+Read 4.1: 133
+Read 10.5: 185
+Read 31.6: failed
+Read 29.3: 335
+Read 6.0: 148
+Read 31.5: failed
+Read 9.7: 179
+Read 30.1: 341
+Read 15.0: 220
+Read 0.1: 1663
+Read 0.3: 103
+Write 1842 -> 21.0 : ok
+Read 21.5: 273
+Write 1189 -> 2.1 : ok
+Read 19.0: 252
+Read 22.7: 283
+Read 25.2: 302
+Read 22.5: 281
+Read 8.1: 1283
+Write 1378 -> 9.4 : ok
+Read 2.7: 123
+Read 29.6: 338
+Read 11.1: 189
+Read 21.4: 272
+Write 1009 -> 5.5 : ok
+Read 18.4: 248
+Read 24.6: 298
+Read 20.0: 260
+Read 2.6: 122
+Read 31.6: failed
+Read 30.5: 0
+Read 12.3: 199
+Read 5.5: 1009
+Read 19.6: 258
+Write 1954 -> 29.4 : ok
+Read 21.5: 273
+Read 6.2: 150
+Read 7.2: 1052
+Read 0.3: 103
+Write 1272 -> 9.0 : ok
+Read 28.0: 324
+Read 3.3: 1203
+Read 3.6: 130
+Read 30.0: 340
+Read 11.4: 192
+Read 25.6: 306
+Read 3.7: 131
+Read 18.0: 244
+Read 22.0: 276
+Read 2.6: 122
+Read 30.18: failed
+Read 29.3: 335
+Read 2.0: 116
+Read 20.7: 267
+Read 30.5: 0
+Read 21.4: 272
+Read 24.7: 299
+Read 8.2: 1382
+Read 7.1: 157
+Read 18.5: 249
+Read 30.6: 0
+Read 20.4: 264
+Read 12.4: 200
+Read 30.9: failed
+Write 1067 -> 3.6 : ok
+Write 1312 -> 34.6 : failed
+Read 8.5: 169
+Read 17.3: 239
+Read 45.3: failed
+Write 1516 -> 18.4 : ok
+Write 1988 -> 9.5 : ok
+Read 23.6: 290
+Read 12.6: 1453
+Read 6.5: 153
+Write 1918 -> 31.1 : failed
+Write 1906 -> 9.6 : ok
+Read 11.0: 188
+Read 14.4: 216
+Read 4.2: 134
+Write 1290 -> 1.2 : ok
+Read 12.0: 196
+Read 11.4: 192
+Read 9.6: 1906
+Read 1.1: 109
+Read 31.6: failed
+Read 23.4: 288
+Read 9.2: 174
+Read 15.0: 220
+Write 1421 -> 1.1 : ok
+Read 1.6: 114
+Read 30.6: 0
+Write 1960 -> 15.0 : ok
+Read 28.9: failed
+Read 22.7: 283
+Read 18.0: 244
+Read 37.3: failed
+Read 9.4: 1378
+Read 4.5: 137
+Write 1135 -> 12.7 : ok
+Read 6.7: 155
+Write 1987 -> 18.0 : ok
+Read 11.1: 189
+Read 1.4: 112
+Read 23.0: 284
+Read 17.4: 240
+Write 1499 -> 11.2 : ok
+Read 1.4: 112
+Read 11.7: 195
+Read 0.7: 107
+Read 1.7: 1452
+Read 18.1: 245
+Read 21.7: 275
+Read 11.6: 194
+Read 10.0: 180
+Write 1388 -> 14.4 : ok
+Read 23.2: 286
+Read 28.6: 330
+Read 23.3: 287
+Read 30.0: 340
+Read 12.1: 197
+Write 1050 -> 27.4 : ok
+Read 26.3: 311
+Write 1539 -> 12.2 : ok
+Read 25.7: 307
+Write 1440 -> 42.15 : failed
+Read 29.5: 337
+Read 14.5: 1233
+Read 2.5: 121
+Write 1213 -> 2.6 : ok
+Read 18.7: 251
+Read 0.3: 103
+Read 7.3: 159
+Read 37.3: failed
+Read 29.7: 339
+Write 1226 -> 4.6 : ok
+Read 18.0: 1987
+Write 1489 -> 18.4 : ok
+Read 27.5: 321
+Read 1.6: 114
+Read 12.6: 1453
+Read 3.0: 124
+Read 38.6: failed
+Read 22.0: 276
+Write 1846 -> 4.4 : ok
+Read 31.2: failed
+Read 19.1: 253
+Read 0.0: 100
+Read 11.4: 192
+Read 30.1: 341
+Read 2.2: 118
+Read 29.1: 1149
+Read 11.5: 193
+Read 29.6: 338
+Read 20.2: 262
+Read 28.5: 329
+Read 10.2: 182
+Read 19.5: 257
+Read 17.4: 240
+Read 23.0: 284
+Read 15.7: 227
+Read 24.7: 299
+Read 0.3: 103
+Read 3.5: 129
+Read 1.7: 1452
+Read 1.1: 1421
+Read 8.2: 1382
+Write 1087 -> 23.1 : ok
+Read 4.3: 135
+Read 14.7: 219
+Write 1252 -> 18.4 : ok
+Read 21.6: 274
+Write 1192 -> 13.6 : ok
+Read 5.5: 1009
+Read 21.5: 273
+Read 17.5: 241
+Read 27.0: 316
+Read 8.1: 1283
+Read 20.5: 265
+Write 1317 -> 26.3 : ok
+Write 1915 -> 23.6 : ok
+Read 11.7: 195
+Read 10.2: 182
+Write 1093 -> 15.7 : ok
+Read 22.0: 276
+Read 0.7: 107
+Write 1411 -> 3.4 : ok
+Read 28.0: 324
+Read 11.4: 192
+Read 18.3: 247
+Read 19.7: 259
+Read 25.1: 301
+Write 1129 -> 29.1 : ok
+Read 30.6: 0
+Read 43.0: failed
+Read 6.0: 148
+Read 6.4: 152
+Write 1539 -> 26.0 : ok
+Read 30.5: 0
+Read 11.3: 191
+Read 3.1: 125
+Read 6.6: 154
+Write 1692 -> 10.2 : ok
+Read 12.3: 199
+Read 19.6: 258
+Read 14.7: 219
+Read 10.7: 187
+Read 14.4: 1388
+Read 24.0: 292
+Write 1757 -> 4.0 : ok
+Write 1899 -> 8.7 : ok
+Read 31.7: failed
+Read 20.7: 267
+Write 1188 -> 24.5 : ok
+Write 1185 -> 6.7 : ok
+Read 19.3: 255
+Read 7.5: 161
+Write 1886 -> 14.5 : ok
+Read 15.6: 226
+Read 9.6: 1906
+Write 1438 -> 51.12 : failed
+Read 24.4: 296
+Read 8.2: 1382
+Read 25.2: 302
+Read 29.5: 337
+Read 9.3: 175
+Read 20.2: 262
+Write 1085 -> 17.5 : ok
+Read 27.6: 322
+Read 28.7: 331
+Write 1805 -> 23.3 : ok
+Read 30.2: 342
+Read 28.2: 326
+Read 15.5: 225
+Read 30.2: 342
+Read 17.0: 236
+Read 12.6: 1453
+Read 15.3: 223
+Read 15.0: 1960
+Read 19.7: 259
+Read 14.2: 214
+Write 1295 -> 27.4 : ok
+Read 23.6: 1915
+Read 17.7: 243
+Read 0.6: 106
+Read 16.4: 232
+Read 17.6: 242
+Write 1074 -> 31.5 : failed
+Read 16.5: 233
+Read 23.2: 286
+Write 1992 -> 21.7 : ok
+Read 11.4: 192
+Read 26.1: 309
+Read 30.6: 0
+Read 17.6: 242
+Read 28.2: 326
+Read 0.4: 104
+Read 2.3: 1857
+Read 26.1: 309
+Read 26.5: 313
+Write 1711 -> 1.5 : ok
+Read 20.7: 267
+Read 21.5: 273
+Read 20.4: 264
+Read 8.1: 1283
+Write 1496 -> 18.4 : ok
+Read 28.3: 327
+Read 8.7: 1899
+Read 20.2: 262
+Read 3.4: 1411
+Read 4.2: 134
+Write 1763 -> 13.1 : ok
+Read 24.7: 299
+Read 8.2: 1382
+Read 25.7: 307
+Read 48.0: failed
+Write 1538 -> 17.5 : ok
+Read 8.5: 169
+Read 14.7: 219
+Write 1592 -> 14.7 : ok
+Write 1084 -> 8.1 : ok
+Read 50.12: failed
+Read 15.5: 225
+Read 5.5: 1009
+Write 1118 -> 12.3 : ok
+Read 41.18: failed
+Read 14.0: 212
+Write 1100 -> 13.2 : ok
+Read 22.4: 280
+Read 29.4: 1954
+Write 1693 -> 11.7 : ok
+Read 24.6: 298
+Read 3.2: 126
+Read 40.6: failed
+Read 25.0: 300
+Read 9.4: 1378
+Read 28.3: 327
+Read 6.5: 153
+Write 1119 -> 25.3 : ok
+Write 1793 -> 20.3 : ok
+Read 13.0: 204
+Read 15.3: 223
+Read 47.12: failed
+Read 16.7: 235
+Read 2.3: 1857
+Read 25.0: 300
+Read 15.2: 222
+Read 7.0: 156
+Read 14.3: 215
+Read 19.6: 258
+Write 1565 -> 10.0 : ok
+Read 7.1: 157
+Read 2.5: 121
+Read 17.7: 243
+Write 1935 -> 18.2 : ok
+Read 30.5: 0
+Read 5.0: 140
+Read 16.1: 229
+Read 16.1: 229
+Read 22.7: 283
+Read 18.5: 249
+Write 1180 -> 4.7 : ok
+Read 24.3: 295
+Read 11.3: 191
+Read 19.3: 255
+Read 11.6: 194
+Read 2.4: 120
+Read 5.4: 144
+Read 13.0: 204
+Read 9.3: 175
+Read 9.4: 1378
+Read 16.7: 235
+Read 23.7: 291
+Read 1.5: 1711
+Read 2.7: 123
+Write 1390 -> 26.2 : ok
+Read 21.3: 271
+Write 1915 -> 22.3 : ok
+Read 27.0: 316
+Read 26.4: 312
+Read 7.5: 161
+Read 27.4: 1295
+Read 28.4: 328
+Write 1097 -> 0.7 : ok
+Read 17.5: 1538
+Read 2.0: 116
+Read 28.6: 330
+Write 1129 -> 21.7 : ok
+Read 4.0: 1757
+Read 10.6: 186
+Read 29.9: failed
+Read 9.3: 175
+Write 1844 -> 2.2 : ok
+Read 17.7: 243
+Read 8.3: 167
+Read 10.3: 183
+Read 28.4: 328
+Read 27.2: 318
+Write 1031 -> 7.4 : ok
+Read 3.3: 1203
+Write 1576 -> 21.5 : ok
+Read 16.6: 234
+Read 1.1: 1421
+Write 1798 -> 25.6 : ok
+Write 1521 -> 29.4 : ok
+Read 1.4: 112
+Read 17.1: 237
+Read 22.6: 282
+Read 4.1: 133
+Read 25.5: 305
+Write 1746 -> 4.7 : ok
+Read 34.18: failed
+Read 5.6: 146
+Read 4.1: 133
+Read 19.2: 254
+Read 12.1: 197
+Read 10.2: 1692
+Read 23.3: 1805
+Read 18.1: 245
+Write 1362 -> 2.7 : ok
+Read 16.6: 234
+Read 2.0: 116
+Read 18.7: 251
+Read 14.5: 1886
+Read 24.5: 1188
+Read 48.15: failed
+Read 20.0: 260
+Read 30.5: 0
+Read 24.2: 294
+Read 1.6: 114
+Read 15.1: 221
+Read 16.4: 232
+Read 1.0: 108
+Read 15.7: 1093
+Read 17.4: 240
+Read 2.3: 1857
+Write 1088 -> 45.21 : failed
+Read 22.9: failed
+Read 28.0: 324
+Write 1239 -> 2.2 : ok
+Write 1292 -> 18.5 : ok
+Write 1419 -> 8.4 : ok
+Write 1696 -> 9.3 : ok
+Read 18.0: 1987
+Read 27.3: 319
+Read 16.1: 229
+Read 29.6: 338
+Read 0.2: 102
+Read 16.3: 231
+Read 10.0: 1565
+Read 31.1: failed
+Read 30.7: 0
+Read 3.7: 131
+Read 28.6: 330
+Read 0.4: 104
+Write 1015 -> 0.6 : ok
+Write 1447 -> 2.1 : ok
+Read 25.3: 1119
+Write 1865 -> 5.5 : ok
+Read 13.7: 211
+Read 27.2: 318
+Write 1513 -> 14.4 : ok
+Read 20.7: 267
+Read 15.2: 222
+Read 10.5: 185
+Read 1.7: 1452
+Read 14.4: 1513
+Read 26.4: 312
+Read 0.1: 1663
+Read 31.6: failed
+Read 8.7: 1899
+Read 2.5: 121
+Read 29.7: 339
+Read 29.7: 339
+Read 3.1: 125
+Write 1146 -> 28.1 : ok
+Read 30.5: 0
+Read 26.1: 309
+Read 8.6: 170
+Read 8.5: 169
+Read 23.3: 1805
+Read 13.0: 204
+Write 1868 -> 23.6 : ok
+Read 3.4: 1411
+Read 5.5: 1865
+Read 31.3: failed
+Read 0.2: 102
+Read 14.4: 1513
+Write 1085 -> 15.5 : ok
+Read 9.3: 1696
+Read 1.3: 1544
+Read 29.5: 337
+Read 26.2: 1390
+Read 8.3: 167
+Write 1505 -> 3.6 : ok
+Read 3.3: 1203
+Read 1.2: 1290
+Write 1279 -> 16.5 : ok
+Read 28.4: 328
+Read 1.5: 1711
+Write 1441 -> 5.0 : ok
+Read 22.2: 278
+Read 11.7: 1693
+Write 1259 -> 31.4 : failed
+Read 8.6: 170
+Write 1809 -> 40.12 : failed
+Write 1359 -> 2.6 : ok
+Read 12.5: 201
+Read 6.2: 150
+Read 4.7: 1746
+Read 28.1: 1146
+Read 0.7: 1097
+Write 1583 -> 11.7 : ok
+Read 11.0: 188
+Read 7.4: 1031
+Write 1368 -> 27.3 : ok
+Read 4.3: 135
+Read 31.3: failed
+Read 18.2: 1935
+Write 1412 -> 12.2 : ok
+Read 22.0: 276
+Read 28.5: 329
+Read 2.2: 1239
+Read 14.2: 214
+Read 17.2: 238
+Read 7.0: 156
+Read 28.5: 329
+Read 27.3: 1368
+Read 26.3: 1317
+Read 7.7: 163
+Write 1065 -> 19.7 : ok
+Read 2.4: 120
+Read 4.3: 135
+Read 25.3: 1119
+Read 28.5: 329
+Read 0.6: 1015
+Read 11.4: 192
+Read 21.2: 270
+Read 30.4: 344
+Read 19.1: 253
+Read 31.4: failed
+Read 17.1: 237
+Write 1825 -> 16.6 : ok
+Read 3.7: 131
+Read 6.2: 150
+Read 12.1: 197
+Read 4.2: 134
+Read 13.4: 208
+Write 1014 -> 16.7 : ok
+Read 28.1: 1146
+Read 22.0: 276
+Read 29.5: 337
+Read 7.6: 162
+Read 1.5: 1711
+Read 10.3: 183
+Read 15.3: 223
+Read 4.6: 1226
+Read 7.2: 1052
+Read 21.2: 270
+Read 9.3: 1696
+Read 24.4: 296
+Read 14.3: 215
+Read 6.7: 1185
+Read 11.1: 189
+Read 18.2: 1935
+Read 19.3: 255
+Read 12.6: 1453
+Write 1092 -> 24.1 : ok
+Read 11.6: 194
+Read 28.7: 331
+Read 10.6: 186
+Read 10.1: 181
+Read 26.4: 312
+Read 11.2: 1499
+Read 13.3: 207
+Read 26.4: 312
+Write 1450 -> 18.3 : ok
+Read 20.2: 262
+Read 23.0: 284
+Read 19.3: 255
+Read 22.0: 276
+Read 29.3: 335
+Read 14.6: 218
+Read 4.1: 133
+Read 9.6: 1906
+Read 19.2: 254
+Read 2.2: 1239
+Read 21.3: 271
+Read 16.7: 1014
+Read 14.1: 213
+Write 1558 -> 24.3 : ok
+Write 1179 -> 6.3 : ok
+Read 13.7: 211
+Read 8.2: 1382
+Read 22.4: 280
+Read 6.6: 154
+Read 8.3: 167
+Read 16.2: 230
+Read 16.2: 230
+Read 18.5: 1292
+Write 1000 -> 44.21 : failed
+Write 1760 -> 25.1 : ok
+Read 17.7: 243
+Write 1143 -> 27.6 : ok
+Read 11.4: 192
+Read 27.3: 1368
+Read 22.5: 281
+Read 30.0: 340
+Read 20.5: 265
+Read 6.2: 150
+Read 27.0: 316
+Read 31.5: failed
+Read 15.7: 1093
+Read 4.4: 1846
+Read 0.4: 104
+Write 1809 -> 4.3 : ok
+Read 29.21: failed
+Read 24.7: 299
+Read 24.5: 1188
+Read 20.7: 267
+Write 1370 -> 0.6 : ok
+Write 1638 -> 19.6 : ok
+Read 42.15: failed
+Read 27.0: 316
+Write 1687 -> 2.0 : ok
+Write 1030 -> 17.6 : ok
+Read 3.5: 129
+Write 1996 -> 26.6 : ok
+Read 8.2: 1382
+Read 26.7: 315
+Write 1918 -> 14.2 : ok
+Read 18.1: 245
+Write 1145 -> 29.3 : ok
+Read 4.3: 1809
+Read 5.5: 1865
+Read 28.0: 324
+Read 11.4: 192
+Read 12.2: 1412
+Read 24.1: 1092
+Write 1079 -> 16.0 : ok
+Read 15.6: 226
+Read 4.1: 133
+Write 1886 -> 30.5 : ok
+Write 1461 -> 11.1 : ok
+Read 8.0: 164
+Read 37.3: failed
+Read 21.2: 270
+Read 5.7: 147
+Read 19.2: 254
+Read 12.6: 1453
+Read 20.1: 261
+Read 6.4: 152
+Write 1441 -> 20.2 : ok
+Read 30.0: 340
+Write 1300 -> 21.12 : failed
+Read 19.1: 253
+Read 6.3: 1179
+Read 30.4: 344
+Read 49.0: failed
+Write 1677 -> 18.5 : ok
+Read 31.4: failed
+Read 20.3: 1793
+Read 16.0: 1079
+Read 25.1: 1760
+Read 8.6: 170
+Read 20.2: 1441
+Read 31.7: failed
+Write 1514 -> 4.5 : ok
+Write 1504 -> 16.4 : ok
+Read 11.4: 192
+Write 1259 -> 28.6 : ok
+Read 10.4: 184
+Write 1412 -> 6.0 : ok
+Read 27.6: 1143
+Read 2.6: 1359
+Write 1262 -> 14.6 : ok
+Read 5.7: 147
+Read 27.2: 318
+Write 1731 -> 0.4 : ok
+Read 4.2: 134
+Read 14.4: 1513
+Read 5.7: 147
+Read 6.6: 154
+Read 15.6: 226
+Read 10.1: 181
+Read 25.4: 304
+Read 6.7: 1185
+Write 1688 -> 7.2 : ok
+Read 14.4: 1513
+Read 21.5: 1576
+Read 6.3: 1179
+Write 1628 -> 23.9 : failed
+Read 19.6: 1638
+Read 26.0: 1539
+Write 1480 -> 47.9 : failed
+Read 23.6: 1868
+Read 25.5: 305
+Read 30.0: 340
+Read 13.3: 207
+Read 23.2: 286
+Read 15.4: 224
+Read 10.7: 187
+Write 1405 -> 29.1 : ok
+Read 25.5: 305
+Write 1124 -> 18.3 : ok
+Read 28.0: 324
+Read 3.3: 1203
+Read 11.7: 1583
+Read 2.6: 1359
+Read 27.6: 1143
+Read 13.0: 204
+Read 10.4: 184
+Read 0.7: 1097
+Read 18.7: 251
+Read 20.4: 264
+Read 8.7: 1899
+Read 28.0: 324
+Read 0.0: 100
+Read 8.2: 1382
+Write 1006 -> 27.0 : ok
+Read 3.0: 124
+Read 19.5: 257
+Read 29.1: 1405
+Read 17.3: 239
+Read 5.7: 147
+Read 2.7: 1362
+Read 15.4: 224
+Read 30.2: 342
+Read 25.6: 1798
+Read 10.1: 181
+Read 12.1: 197
+Write 1965 -> 20.0 : ok
+Read 4.2: 134
+Read 9.5: 1988
+Read 1.3: 1544
+Write 1096 -> 22.4 : ok
+Read 5.5: 1865
+Read 0.2: 102
+Write 1729 -> 31.2 : failed
+Read 39.21: failed
+Write 1761 -> 14.0 : ok
+Write 1553 -> 11.1 : ok
+Read 26.0: 1539
+Read 28.4: 328
+Read 14.2: 1918
+Write 1500 -> 30.6 : ok
+Write 1049 -> 3.3 : ok
+Write 1719 -> 15.6 : ok
+Read 6.3: 1179
+Read 12.0: 196
+Read 29.3: 1145
+Read 21.0: 1842
+Write 1754 -> 15.0 : ok
+Read 31.3: failed
+Read 4.0: 1757
+Read 18.4: 1496
+Read 15.4: 224
+Read 26.2: 1390
+Write 1373 -> 1.0 : ok
+Write 1049 -> 23.4 : ok
+Read 12.5: 201
+Write 1991 -> 25.5 : ok
+Read 1.3: 1544
+Write 1144 -> 24.1 : ok
+Read 15.4: 224
+Read 27.0: 1006
+Read 1.5: 1711
+Write 1863 -> 15.3 : ok
+Write 1140 -> 27.3 : ok
+Read 13.1: 1763
+Read 23.5: 289
+Read 27.5: 321
+Write 1519 -> 31.3 : failed
+Write 1929 -> 0.4 : ok
+Read 25.12: failed
+Read 25.1: 1760
+Write 1195 -> 4.6 : ok
+Write 1277 -> 14.4 : ok
+Read 10.1: 181
+Read 7.1: 157
+Read 19.2: 254
+Read 39.6: failed
+Read 23.6: 1868
+Write 1432 -> 30.1 : ok
+Read 9.3: 1696
+Read 23.2: 286
+Read 10.0: 1565
+Read 27.4: 1295
+Read 7.5: 161
+Read 22.3: 1915
+Write 1151 -> 26.1 : ok
+Read 5.1: 141
+Read 13.6: 1192
+Read 31.1: failed
+Read 30.4: 344
+Read 29.5: 337
+Read 26.5: 313
+Read 27.0: 1006
+Read 10.2: 1692
+Read 17.6: 1030
+Read 20.5: 265
+Write 1672 -> 0.6 : ok
+Read 7.5: 161
+Read 13.7: 211
+Read 17.6: 1030
+Read 30.0: 340
+Read 21.6: 274
+Read 31.3: failed
+Read 20.3: 1793
+Write 1650 -> 23.0 : ok
+Read 27.0: 1006
+Read 6.3: 1179
+Read 20.5: 265
+Write 1949 -> 13.3 : ok
+Read 10.5: 185
+Read 20.4: 264
+Read 27.3: 1140
+Read 24.6: 298
+Write 1589 -> 25.5 : ok
+Read 21.3: 271
+Read 26.3: 1317
+Write 1468 -> 21.1 : ok
+Write 1541 -> 16.2 : ok
+Read 2.3: 1857
+Read 4.6: 1195
+Read 25.12: failed
+Read 10.5: 185
+Read 8.2: 1382
+Write 1710 -> 15.4 : ok
+Read 12.4: 200
+Read 24.4: 296
+Read 13.1: 1763
+Read 18.4: 1496
+Read 2.6: 1359
+Read 31.1: failed
+Read 23.4: 1049
+Read 38.12: failed
+Read 1.2: 1290
+Read 6.1: 149
+Read 2.4: 120
+Read 3.2: 126
+Write 1778 -> 8.7 : ok
+Read 26.5: 313
+Read 10.7: 187
+Write 1852 -> 12.4 : ok
+Read 26.4: 312
+Read 37.3: failed
+Read 20.4: 264
+Read 14.6: 1262
+Read 20.15: failed
+Write 1909 -> 17.5 : ok
+Read 27.6: 1143
+Write 1272 -> 7.3 : ok
+Read 16.5: 1279
+Read 29.0: 332
+Read 6.0: 1412
+Write 1347 -> 14.1 : ok
+Read 10.7: 187
+Read 1.2: 1290
+Read 12.0: 196
+Read 6.3: 1179
+Read 3.4: 1411
+Read 17.4: 240
+Read 17.2: 238
+Read 18.3: 1124
+Write 1841 -> 5.1 : ok
+Read 29.15: failed
+Read 20.5: 265
+Read 29.3: 1145
+Read 12.3: 1118
+Read 7.6: 162
+Read 47.21: failed
+Write 1604 -> 31.4 : failed
+Read 25.3: 1119
+Read 13.4: 208
+Read 29.4: 1521
+Read 17.4: 240
+Write 1218 -> 4.3 : ok
+Read 6.6: 154
+Read 2.1: 1447
+Read 29.4: 1521
+Write 1200 -> 22.2 : ok
+Write 1276 -> 8.7 : ok
+Read 6.7: 1185
+Read 26.1: 1151
+Write 1764 -> 26.1 : ok
+Read 9.6: 1906
+Read 10.1: 181
+Read 5.4: 144
+Read 14.1: 1347
+Write 1474 -> 18.7 : ok
+Read 27.2: 318
+Read 2.0: 1687
+Read 26.4: 312
+Read 18.4: 1496
+Read 25.7: 307
+Read 14.6: 1262
+Read 9.3: 1696
+Write 1883 -> 21.1 : ok
+Read 6.5: 153
+Read 2.2: 1239
+Read 16.6: 1825
+Read 7.4: 1031
+Read 7.0: 156
+Write 1716 -> 2.0 : ok
+Write 1755 -> 13.2 : ok
+Read 29.1: 1405
+Read 11.2: 1499
+Write 1421 -> 25.3 : ok
+Write 1957 -> 20.7 : ok
+Read 17.1: 237
+Read 10.6: 186
+Read 26.6: 1996
+Read 29.4: 1521
+Read 9.4: 1378
+Read 13.0: 204
+Read 14.2: 1918
+Read 28.1: 1146
+Read 22.5: 281
+Write 1762 -> 25.4 : ok
+Read 2.5: 121
+Read 27.6: 1143
+Read 6.3: 1179
+Read 3.1: 125
+Write 1272 -> 4.3 : ok
+Read 23.7: 291
+Read 27.6: 1143
+Read 30.6: 1500
+Read 16.1: 229
+Read 23.7: 291
+Read 15.2: 222
+Write 1833 -> 12.2 : ok
+Read 27.4: 1295
+Write 1690 -> 12.6 : ok
+Read 11.0: 188
+Read 1.7: 1452
+Write 1529 -> 7.0 : ok
+Write 1177 -> 26.2 : ok
+Read 7.0: 1529
+Read 10.3: 183
+Read 8.0: 164
+Write 1779 -> 0.6 : ok
+Read 26.0: 1539
+Write 1824 -> 0.4 : ok
+Write 1925 -> 17.4 : ok
+Write 1832 -> 12.0 : ok
+Write 1273 -> 28.1 : ok
+Write 1050 -> 10.4 : ok
+Read 25.0: 300
+Read 23.0: 1650
+Read 6.4: 152
+Read 3.0: 124
+Read 3.3: 1049
+Read 15.4: 1710
+Read 31.2: failed
+Read 24.0: 292
+Read 5.2: 142
+Read 22.2: 1200
+Read 27.1: 317
+Read 31.7: failed
+Write 1237 -> 24.1 : ok
+Write 1604 -> 23.1 : ok
+Read 10.1: 181
+Write 1350 -> 24.2 : ok
+Read 13.5: 209
+Read 14.7: 1592
+Write 1675 -> 1.4 : ok
+Write 1763 -> 8.1 : ok
+Write 1433 -> 22.4 : ok
+Read 31.6: failed
+Read 12.5: 201
+Write 1947 -> 6.4 : ok
+Write 1614 -> 18.7 : ok
+Write 1449 -> 9.0 : ok
+Read 26.7: 315
+Read 20.3: 1793
+Read 13.0: 204
+Read 30.5: 1886
+Read 11.6: 194
+Read 16.1: 229
+Read 16.2: 1541
+Read 29.0: 332
+Write 1814 -> 4.2 : ok
+Read 29.5: 337
+Write 1509 -> 27.3 : ok
+Read 3.7: 131
+Read 7.2: 1688
+Read 14.5: 1886
+Read 18.2: 1935
+Read 34.15: failed
+Read 5.3: 143
+Write 1970 -> 21.6 : ok
+Read 39.9: failed
+Read 24.6: 298
+Read 25.0: 300
+Read 13.7: 211
+Read 4.2: 1814
+Write 1695 -> 13.1 : ok
+Read 10.2: 1692
+Read 27.5: 321
+Read 26.4: 312
+Read 12.4: 1852
+Read 17.7: 243
+Read 13.1: 1695
+Read 20.3: 1793
+Read 23.2: 286
+Read 17.4: 1925
+Write 1560 -> 0.6 : ok
+Read 18.3: 1124
+Read 17.0: 236
+Write 1193 -> 20.3 : ok
+Read 6.1: 149
+Read 14.2: 1918
+Write 1528 -> 31.5 : failed
+Read 30.5: 1886
+Read 13.1: 1695
+Read 8.4: 1419
+Read 13.0: 204
+Read 30.5: 1886
+Read 20.5: 265
+Write 1667 -> 19.6 : ok
+Read 31.2: failed
+Read 22.6: 282
+Read 26.2: 1177
+Read 13.1: 1695
+Read 29.2: 334
+Write 1800 -> 20.2 : ok
+Write 1385 -> 32.3 : failed
+Read 17.2: 238
+Read 31.3: failed
+Write 1987 -> 30.5 : ok
+Read 18.4: 1496
+Read 11.3: 191
+Read 4.6: 1195
+Read 21.2: 270
+Read 12.0: 1832
+Write 1301 -> 1.5 : ok
+Read 22.6: 282
+Read 28.7: 331
+Read 10.3: 183
+Read 10.0: 1565
+Read 17.3: 239
+Read 31.0: failed
+Read 21.4: 272
+Read 26.2: 1177
+Read 11.7: 1583
+Read 6.7: 1185
+Read 21.4: 272
+Read 27.2: 318
+Read 0.3: 103
+Read 28.3: 327
+Read 5.2: 142
+Read 24.5: 1188
+Write 1185 -> 21.1 : ok
+Read 18.7: 1614
+Read 43.3: failed
+Read 21.2: 270
+Read 3.5: 129
+Read 49.3: failed
+Write 1280 -> 43.0 : failed
+Read 25.1: 1760
+Read 2.7: 1362
+Write 1229 -> 17.7 : ok
+Read 4.0: 1757
+Read 3.2: 126
+Read 49.9: failed
+Write 1378 -> 27.4 : ok
+Read 24.12: failed
+Read 30.4: 344
+Write 1808 -> 3.1 : ok
+Read 32.18: failed
+Read 31.1: failed
+Read 14.5: 1886
+Read 15.7: 1093
+Read 22.4: 1433
+Write 1591 -> 10.1 : ok
+Write 1807 -> 30.6 : ok
+Read 6.2: 150
+Read 1.1: 1421
+Read 28.6: 1259
+Read 25.18: failed
+Write 1478 -> 26.6 : ok
+Read 5.0: 1441
+Write 1003 -> 6.4 : ok
+Read 1.5: 1301
+Read 12.3: 1118
+Read 14.2: 1918
+Read 46.12: failed
+Write 1679 -> 16.3 : ok
+Read 24.4: 296
+Write 1830 -> 29.2 : ok
+Read 14.6: 1262
+Read 31.5: failed
+Read 29.0: 332
+Read 17.1: 237
+Write 1773 -> 7.6 : ok
+Read 1.3: 1544
+Read 26.2: 1177
+Read 10.1: 1591
+Read 6.6: 154
+Read 20.5: 265
+Write 1161 -> 4.6 : ok
+Read 7.1: 157
+Write 1532 -> 4.5 : ok
+Read 11.6: 194
+Write 1204 -> 13.1 : ok
+Read 6.2: 150
+Read 28.1: 1273
+Read 25.3: 1421
+Read 2.6: 1359
+Read 28.4: 328
+Read 2.1: 1447
+Read 1.5: 1301
+Read 25.0: 300
+Read 20.0: 1965
+Read 4.4: 1846
+Read 31.6: failed
+Read 25.3: 1421
+Read 5.1: 1841
+Read 11.5: 193
+Read 8.2: 1382
+Read 8.0: 164
+Read 5.2: 142
+Read 49.18: failed
+Write 1340 -> 10.7 : ok
+Write 1852 -> 11.7 : ok
+Read 29.5: 337
+Read 9.6: 1906
+Read 16.7: 1014
+Read 5.3: 143
+Read 16.3: 1679
+Write 1084 -> 24.2 : ok
+Write 1910 -> 27.1 : ok
+Read 8.2: 1382
+Write 1140 -> 38.21 : failed
+Write 1843 -> 15.2 : ok
+Read 19.1: 253
+Read 1.3: 1544
+Read 10.7: 1340
+Read 11.6: 194
+Read 5.1: 1841
+Write 1853 -> 12.4 : ok
+Read 9.4: 1378
+Read 13.0: 204
+Read 11.2: 1499
+Read 10.5: 185
+Read 7.5: 161
+Read 10.2: 1692
+Read 10.3: 183
+Read 31.1: failed
+Read 32.9: failed
+Write 1488 -> 3.1 : ok
+Read 26.2: 1177
+Read 9.2: 174
+Read 11.0: 188
+Read 27.1: 1910
+Read 17.0: 236
+Read 47.21: failed
+Write 1061 -> 0.4 : ok
+Read 10.0: 1565
+Write 1292 -> 8.4 : ok
+Read 26.6: 1478
+Read 19.1: 253
+Read 16.3: 1679
+Read 13.6: 1192
+Read 6.2: 150
+Write 1681 -> 10.2 : ok
+Read 43.3: failed
+Read 23.5: 289
+Read 27.6: 1143
+Read 27.3: 1509
+Read 2.7: 1362
+Read 26.6: 1478
+Read 21.6: 1970
+Read 0.6: 1560
+Read 8.7: 1276
+Read 9.4: 1378
+Read 26.3: 1317
+Read 27.1: 1910
+Write 1354 -> 31.7 : failed
+Read 7.7: 163
+Read 12.3: 1118
+Read 12.5: 201
+Write 1455 -> 28.7 : ok
+Write 1953 -> 0.3 : ok
+Write 1513 -> 30.6 : ok
+Read 17.5: 1909
+Write 1816 -> 25.18 : failed
+Read 31.7: failed
+Read 14.6: 1262
+Write 1841 -> 19.0 : ok
+Read 26.7: 315
+Read 24.6: 298
+Read 23.6: 1868
+Read 18.0: 1987
+Read 31.4: failed
+Read 0.2: 102
+Read 8.3: 167
+Read 13.5: 209
+Read 37.3: failed
+Read 17.4: 1925
+Read 10.7: 1340
+Read 14.7: 1592
+Read 11.4: 192
+Read 22.2: 1200
+Read 26.1: 1764
+Read 2.5: 121
+Write 1191 -> 5.0 : ok
+Read 27.6: 1143
+Read 24.4: 296
+Write 1590 -> 27.3 : ok
+Read 11.5: 193
+Read 31.5: failed
+Write 1290 -> 3.2 : ok
+Read 15.3: 1863
+Read 21.5: 1576
+Read 1.4: 1675
+Read 25.5: 1589
+Read 29.1: 1405
+Read 31.1: failed
+Read 2.6: 1359
+Read 20.5: 265
+Read 12.5: 201
+Write 1938 -> 1.7 : ok
+Read 27.4: 1378
+Write 1151 -> 9.5 : ok
+Read 10.4: 1050
+Read 26.4: 312
+Read 42.9: failed
+Read 9.0: 1449
+Read 15.4: 1710
+Read 11.0: 188
+Read 7.5: 161
+Read 14.5: 1886
+Read 11.5: 193
+Read 0.7: 1097
+Read 6.1: 149
+Read 7.7: 163
+Read 29.1: 1405
+Read 8.5: 169
+Write 1154 -> 10.6 : ok
+Read 25.7: 307
+Read 20.5: 265
+Read 27.4: 1378
+Read 19.5: 257
+Read 13.0: 204
+Read 24.1: 1237
+Read 6.2: 150
+Read 31.3: failed
+Read 7.4: 1031
+Write 1080 -> 30.6 : ok
+Read 5.0: 1191
+Read 31.3: failed
+Read 45.6: failed
+Write 1173 -> 28.7 : ok
+Read 2.1: 1447
+Read 31.2: failed
+Read 25.6: 1798
+Read 1.1: 1421
+Read 27.7: 323
+Read 14.5: 1886
+Read 11.4: 192
+Read 30.1: 1432
+Read 22.5: 281
+Read 20.5: 265
+Read 22.1: 277
+Write 1640 -> 13.3 : ok
+Read 1.6: 114
+Read 0.7: 1097
+Read 27.5: 321
+Write 1044 -> 14.2 : ok
+Read 11.0: 188
+Read 2.1: 1447
+Read 23.3: 1805
+Read 2.3: 1857
+Read 31.7: failed
+Read 24.1: 1237
+Read 18.3: 1124
+Read 26.2: 1177
+Read 14.5: 1886
+Read 11.2: 1499
+Read 26.5: 313
+Read 26.0: 1539
+Read 31.0: failed
+Write 1007 -> 21.3 : ok
+Read 8.3: 167
+Read 10.4: 1050
+Read 0.1: 1663
+Write 1168 -> 10.1 : ok
+Read 14.7: 1592
+Read 10.0: 1565
+Read 27.7: 323
+Read 13.0: 204
+Read 2.6: 1359
+Read 1.3: 1544
+Read 4.2: 1814
+Read 31.6: failed
+Read 18.0: 1987
+Write 1758 -> 3.7 : ok
+Write 1289 -> 18.1 : ok
+Read 20.0: 1965
+Read 11.5: 193
+Read 6.0: 1412
+Read 22.3: 1915
+Read 21.1: 1185
+Read 20.0: 1965
+Read 6.0: 1412
+Read 14.0: 1761
+Read 8.5: 169
+Read 26.1: 1764
+Read 44.15: failed
+Read 26.7: 315
+Write 1799 -> 26.2 : ok
+Read 25.6: 1798
+Read 17.7: 1229
+Read 20.21: failed
+Read 9.4: 1378
+Read 13.1: 1204
+Read 8.7: 1276
+Read 17.6: 1030
+Read 16.6: 1825
+Read 28.3: 327
+Read 28.3: 327
+Write 1153 -> 17.3 : ok
+Write 1288 -> 26.5 : ok
+Write 1351 -> 28.1 : ok
+Read 2.0: 1716
+Write 1316 -> 1.6 : ok
+Read 11.0: 188
+Read 16.3: 1679
+Read 11.2: 1499
+Write 1921 -> 20.0 : ok
+Read 25.7: 307
+Write 1165 -> 12.6 : ok
+Read 23.7: 291
+Read 16.1: 229
+Read 22.0: 276
+Read 26.6: 1478
+Read 27.1: 1910
+Read 0.4: 1061
+Write 1696 -> 30.5 : ok
+Write 1492 -> 20.0 : ok
+Read 23.0: 1650
+Write 1361 -> 38.12 : failed
+Read 5.0: 1191
+Write 1958 -> 19.5 : ok
+Read 10.2: 1681
+Read 17.6: 1030
+Write 1078 -> 41.3 : failed
+Write 1126 -> 12.0 : ok
+Read 8.7: 1276
+Read 27.6: 1143
+Write 1023 -> 25.5 : ok
+Write 1497 -> 13.5 : ok
+Read 11.7: 1852
+Read 18.1: 1289
+Read 33.3: failed
+Read 29.2: 1830
+Read 29.0: 332
+Read 22.1: 277
+Read 2.3: 1857
+Write 1265 -> 5.1 : ok
+Read 35.21: failed
+Read 0.3: 1953
+Read 3.2: 1290
+Read 45.0: failed
+Read 5.6: 146
+Read 26.4: 312
+Read 4.5: 1532
+Read 25.5: 1023
+Write 1534 -> 27.2 : ok
+Read 43.3: failed
+Read 18.1: 1289
+Write 1848 -> 24.0 : ok
+Write 1926 -> 26.1 : ok
+Read 26.0: 1539
+Read 30.2: 342
+Read 10.5: 185
+Read 3.5: 129
+Write 1260 -> 15.7 : ok
+Read 1.3: 1544
+Write 1922 -> 25.5 : ok
+Read 4.3: 1272
+Read 4.5: 1532
+Read 25.3: 1421
+Read 30.4: 344
+Read 6.7: 1185
+Write 1160 -> 25.6 : ok
+Read 29.4: 1521
+Read 22.4: 1433
+Read 13.4: 208
+Read 3.1: 1488
+Read 50.3: failed
+Read 20.6: 266
+Write 1793 -> 7.2 : ok
+Read 22.4: 1433
+Read 1.5: 1301
+Read 10.0: 1565
+Write 1669 -> 11.3 : ok
+Write 1217 -> 25.6 : ok
+Read 25.4: 1762
+Read 9.6: 1906
+Write 1797 -> 13.3 : ok
+Write 1378 -> 27.4 : ok
+Read 11.3: 1669
+Read 8.5: 169
+Read 9.5: 1151
+Read 29.0: 332
+Read 6.0: 1412
+Read 27.4: 1378
+Write 1750 -> 25.5 : ok
+Read 15.6: 1719
+Read 4.0: 1757
+Read 9.2: 174
+Read 22.5: 281
+Read 21.3: 1007
+Read 17.0: 236
+Read 30.2: 342
+Read 5.7: 147
+Read 22.2: 1200
+Write 1164 -> 29.4 : ok
+Read 22.0: 276
+Read 1.6: 1316
+Read 1.5: 1301
+Read 15.0: 1754
+Read 22.3: 1915
+Read 20.7: 1957
+Read 16.5: 1279
+Read 27.5: 321
+Read 9.4: 1378
+Write 1637 -> 14.2 : ok
+Read 25.3: 1421
+Read 13.2: 1755
+Read 20.7: 1957
+Read 34.12: failed
+Read 26.3: 1317
+Write 1900 -> 30.6 : ok
+Write 1940 -> 27.7 : ok
+Read 21.7: 1129
+Read 22.3: 1915
+Write 1556 -> 26.3 : ok
+Read 6.6: 154
+Read 18.2: 1935
+Read 11.1: 1553
+Read 31.7: failed
+Read 0.3: 1953
+Read 23.6: 1868
+Read 9.6: 1906
+Read 11.7: 1852
+Read 4.6: 1161
+Read 6.5: 153
+Read 12.5: 201
+Read 39.21: failed
+Read 24.0: 1848
+Read 21.0: 1842
+Write 1115 -> 25.3 : ok
+Read 0.0: 100
+Read 14.0: 1761
+Read 3.5: 129
+Read 14.3: 215
+Read 23.4: 1049
+Read 9.6: 1906
+Read 1.7: 1938
+Read 23.6: 1868
+Read 15.1: 221
+Write 1414 -> 5.3 : ok
+Read 18.6: 250
+Read 26.1: 1926
+Write 1229 -> 20.5 : ok
+Read 21.3: 1007
+Read 22.7: 283
+Read 23.3: 1805
+Read 11.6: 194
+Write 1259 -> 13.1 : ok
+Read 21.5: 1576
+Write 1284 -> 4.7 : ok
+Read 0.6: 1560
+Read 16.6: 1825
+Write 1089 -> 30.6 : ok
+Write 1571 -> 28.7 : ok
+Write 1639 -> 25.1 : ok
+Write 1705 -> 25.7 : ok
+Read 9.2: 174
+Read 14.7: 1592
+Read 6.0: 1412
+Read 14.4: 1277
+Read 9.4: 1378
+Read 15.6: 1719
+Read 48.15: failed
+Read 19.5: 1958
+Read 22.7: 283
+Read 7.1: 157
+Read 28.2: 326
+Write 1085 -> 24.5 : ok
+Read 18.1: 1289
+Read 21.2: 270
+Write 1415 -> 9.6 : ok
+Read 15.4: 1710
+Read 24.2: 1084
+Read 16.5: 1279
+Read 2.2: 1239
+Read 5.2: 142
+Read 5.5: 1865
+Read 18.7: 1614
+Read 10.5: 185
+Read 7.7: 163
+Read 9.3: 1696
+Write 1418 -> 12.4 : ok
+Write 1127 -> 24.4 : ok
+Read 2.0: 1716
+Read 27.0: 1006
+Read 0.7: 1097
+Read 24.6: 298
+Read 6.6: 154
+Read 14.0: 1761
+Read 7.4: 1031
+Read 6.4: 1003
+Write 1564 -> 22.5 : ok
+Read 12.3: 1118
+Read 28.1: 1351
+Read 21.4: 272
+Read 16.1: 229
+Read 11.5: 193
+Read 4.7: 1284
+Read 26.7: 315
+Read 3.3: 1049
+Read 12.5: 201
+Write 1468 -> 22.2 : ok
+Write 1753 -> 42.9 : failed
+Read 6.7: 1185
+Read 6.3: 1179
+Read 20.6: 266
+Read 0.1: 1663
+Read 11.0: 188
+Read 1.0: 1373
+Read 21.5: 1576
+Read 1.0: 1373
+Read 26.2: 1799
+Write 1197 -> 12.2 : ok
+Read 26.1: 1926
+Read 11.3: 1669
+Read 18.2: 1935
+Read 1.7: 1938
+Read 26.3: 1556
+Read 22.1: 277
+Read 17.7: 1229
+Read 48.0: failed
+Read 0.2: 102
+Read 19.0: 1841
+Write 1844 -> 8.2 : ok
+Read 2.6: 1359
+Read 13.2: 1755
+Write 1969 -> 0.0 : ok
+Read 23.6: 1868
+Read 30.5: 1696
+Write 1180 -> 2.7 : ok
+Read 30.6: 1089
+Write 1056 -> 21.0 : ok
+Write 1825 -> 25.5 : ok
+Read 27.1: 1910
+Read 17.7: 1229
+Read 18.3: 1124
+Read 16.1: 229
+Read 25.0: 300
+Write 1624 -> 16.1 : ok
+Read 5.4: 144
+Read 3.2: 1290
+Read 24.1: 1237
+Write 1087 -> 29.6 : ok
+Read 2.7: 1180
+Read 4.0: 1757
+Read 12.4: 1418
+Read 12.6: 1165
+Read 28.0: 324
+Read 28.1: 1351
+Read 8.0: 164
+Write 1834 -> 3.2 : ok
+Read 30.0: 340
+Read 20.1: 261
+Read 7.3: 1272
+Read 23.7: 291
+Read 20.3: 1193
+Read 5.0: 1191
+Read 20.4: 264
+Write 1599 -> 13.0 : ok
+Write 1177 -> 12.6 : ok
+Read 23.6: 1868
+Read 4.7: 1284
+Write 1594 -> 7.7 : ok
+Read 8.1: 1763
+Read 11.4: 192
+Write 1366 -> 18.7 : ok
+Read 46.3: failed
+Write 1572 -> 30.3 : ok
+Write 1927 -> 7.0 : ok
+Write 1619 -> 18.0 : ok
+Read 18.0: 1619
+Read 23.1: 1604
+Read 4.4: 1846
+Read 21.7: 1129
+Write 1680 -> 24.0 : ok
+Read 9.4: 1378
+Read 30.5: 1696
+Read 8.4: 1292
+Write 1119 -> 3.5 : ok
+Read 2.0: 1716
+Write 1123 -> 30.3 : ok
+Read 18.3: 1124
+Read 4.7: 1284
+Read 25.7: 1705
+Read 3.3: 1049
+Read 14.6: 1262
+Read 15.3: 1863
+Read 13.4: 208
+Write 1733 -> 13.0 : ok
+Write 1010 -> 15.6 : ok
+Read 24.2: 1084
+Read 5.5: 1865
+Read 17.0: 236
+Read 17.4: 1925
+Read 31.3: failed
+Write 1493 -> 4.7 : ok
+Read 10.2: 1681
+Read 25.0: 300
+Read 5.2: 142
+Write 1802 -> 12.7 : ok
+Write 1306 -> 25.4 : ok
+Write 1004 -> 28.5 : ok
+Read 20.4: 264
+Write 1962 -> 10.3 : ok
+Read 9.7: 179
+Read 11.7: 1852
+Write 1226 -> 31.6 : failed
+Write 1903 -> 11.0 : ok
+Write 1962 -> 14.6 : ok
+Write 1010 -> 3.3 : ok
+Read 0.1: 1663
+Read 7.7: 1594
+Read 6.1: 149
+Write 1150 -> 17.7 : ok
+Read 13.4: 208
+Read 8.0: 164
+Read 1.1: 1421
+Read 21.7: 1129
+Write 1717 -> 28.3 : ok
+Read 24.6: 298
+Read 11.2: 1499
+Read 24.6: 298
+Read 22.4: 1433
+Read 12.5: 201
+Read 1.4: 1675
+Read 18.1: 1289
+Write 1695 -> 19.3 : ok
+Read 31.1: failed
+Read 3.0: 124
+Read 8.2: 1844
+Read 19.4: 256
+Read 11.6: 194
+Read 8.5: 169
+Read 31.3: failed
+Read 16.1: 1624
+Read 32.3: failed
+Write 1423 -> 22.6 : ok
+Read 8.1: 1763
+Read 10.3: 1962
+Write 1578 -> 12.4 : ok
+Read 3.7: 1758
+Write 1475 -> 0.2 : ok
+Read 27.1: 1910
+Read 17.6: 1030
+Write 1650 -> 16.1 : ok
+Write 1078 -> 1.3 : ok
+Read 6.7: 1185
+Read 23.0: 1650
+Read 10.6: 1154
+Write 1854 -> 16.1 : ok
+Write 1120 -> 7.1 : ok
+Read 23.5: 289
+Read 11.1: 1553
+Read 3.6: 1505
+Read 30.6: 1089
+Read 15.1: 221
+Read 0.7: 1097
+Read 9.4: 1378
+Read 15.7: 1260
+Read 30.1: 1432
+Read 4.5: 1532
+Read 18.4: 1496
+Read 19.6: 1667
+Read 10.0: 1565
+Read 34.3: failed
+Read 5.2: 142
+Read 1.0: 1373
+Read 29.2: 1830
+Read 41.9: failed
+Read 8.7: 1276
+Read 15.6: 1010
+Read 27.2: 1534
+Read 16.0: 1079
+Write 1403 -> 16.5 : ok
+Write 1236 -> 25.7 : ok
+Read 31.9: failed
+Read 28.1: 1351
+Read 26.0: 1539
+Read 19.6: 1667
+Read 21.2: 270
+Read 8.4: 1292
+Read 8.5: 169
+Read 4.5: 1532
+Write 1040 -> 9.7 : ok
+Read 9.1: 173
+Read 2.1: 1447
+Read 8.3: 167
+Read 25.0: 300
+Read 10.1: 1168
+Write 1307 -> 2.6 : ok
+Write 1455 -> 28.7 : ok
+Read 27.3: 1590
+Read 17.6: 1030
+Read 8.5: 169
+Read 4.1: 133
+Read 20.6: 266
+Read 27.3: 1590
+Read 28.4: 328
+Read 7.1: 1120
+Read 5.4: 144
+Read 5.5: 1865
+Read 4.6: 1161
+Write 1511 -> 5.1 : ok
+Read 5.2: 142
+Read 3.3: 1010
+Read 9.7: 1040
+Read 13.3: 1797
+Read 15.3: 1863
+Read 20.5: 1229
+Read 6.7: 1185
+Read 7.1: 1120
+Read 25.2: 302
+Read 16.4: 1504
+Read 18.0: 1619
+Read 19.7: 1065
+Read 19.5: 1958
+Write 1436 -> 21.3 : ok
+Read 12.6: 1177
+Read 31.7: failed
+Read 28.0: 324
+Read 18.5: 1677
+Write 1847 -> 16.3 : ok
+Read 11.3: 1669
+Read 5.1: 1511
+Read 24.4: 1127
+Write 1249 -> 27.7 : ok
+Read 3.3: 1010
+Read 7.6: 1773
+Read 2.5: 121
+Read 30.0: 340
+Read 26.0: 1539
+Write 1381 -> 13.5 : ok
+Read 10.6: 1154
+Read 21.4: 272
+Read 7.1: 1120
+Read 16.7: 1014
+Read 16.2: 1541
+Write 1886 -> 22.4 : ok
+Read 23.7: 291
+Read 48.15: failed
+Write 1971 -> 22.4 : ok
+Read 28.1: 1351
+Read 18.6: 250
+Read 22.1: 277
+Read 15.7: 1260
+Read 25.12: failed
+Read 22.6: 1423
+Read 12.5: 201
+Read 0.3: 1953
+Read 14.4: 1277
+Read 22.6: 1423
+Write 1798 -> 5.0 : ok
+Read 28.0: 324
+Read 14.6: 1962
+Read 3.2: 1834
+Read 20.1: 261
+Read 21.4: 272
+Write 1717 -> 26.15 : failed
+Read 1.3: 1078
+Write 1414 -> 24.2 : ok
+Read 27.6: 1143
+Write 1891 -> 34.3 : failed
+Read 13.2: 1755
+Write 1274 -> 1.4 : ok
+Write 1146 -> 1.3 : ok
+Read 4.6: 1161
+Write 1230 -> 31.6 : failed
+Read 27.6: 1143
+Write 1150 -> 6.2 : ok
+Write 1558 -> 31.0 : failed
+Write 1463 -> 21.0 : ok
+Read 1.1: 1421
+Read 21.5: 1576
+Read 18.5: 1677
+Read 31.5: failed
+Read 9.6: 1415
+Read 23.12: failed
+Read 3.4: 1411
+Read 29.4: 1164
+Write 1318 -> 0.3 : ok
+Read 0.6: 1560
+Read 10.7: 1340
+Read 8.6: 170
+Read 10.3: 1962
+Read 18.1: 1289
+Read 1.3: 1146
+Read 5.0: 1798
+Read 31.6: failed
+Read 22.7: 283
+Read 30.5: 1696
+Read 5.7: 147
+Read 3.1: 1488
+Read 31.4: failed
+Read 1.3: 1146
+Read 28.1: 1351
+Read 24.3: 1558
+Read 0.1: 1663
+Write 1512 -> 12.0 : ok
+Write 1647 -> 15.0 : ok
+Write 1169 -> 15.4 : ok
+Read 8.4: 1292
+Write 1913 -> 24.6 : ok
+Write 1664 -> 4.2 : ok
+Read 6.3: 1179
+Read 20.1: 261
+Write 1447 -> 2.6 : ok
+Read 31.4: failed
+Write 1988 -> 9.1 : ok
+Read 15.3: 1863
+Read 27.2: 1534
+Read 8.7: 1276
+Write 1611 -> 16.5 : ok
+Read 22.6: 1423
+Read 10.1: 1168
+Read 5.1: 1511
+Read 1.7: 1938
+Read 3.4: 1411
+Read 24.15: failed
+Read 4.6: 1161
+Read 34.21: failed
+Read 10.6: 1154
+Write 1493 -> 18.0 : ok
+Read 27.3: 1590
+Write 1850 -> 15.6 : ok
+Read 24.1: 1237
+Read 15.2: 1843
+Read 13.7: 211
+Read 45.3: failed
+Read 38.21: failed
+Write 1171 -> 6.4 : ok
+Read 23.1: 1604
+Read 23.3: 1805
+Write 1213 -> 11.3 : ok
+Read 1.5: 1301
+Write 1063 -> 13.3 : ok
+Write 1830 -> 25.2 : ok
+Read 2.5: 121
+Read 15.6: 1850
+Read 8.7: 1276
+Read 29.6: 1087
+Read 19.5: 1958
+Read 14.2: 1637
+Read 3.7: 1758
+Read 26.7: 315
+Read 5.4: 144
+Read 4.3: 1272
+Read 20.5: 1229
+Read 28.4: 328
+Read 21.2: 270
+Write 1052 -> 25.2 : ok
+Read 1.2: 1290
+Read 21.3: 1436
+Read 20.5: 1229
+Write 1425 -> 1.1 : ok
+Read 31.7: failed
+Read 18.1: 1289
+Read 21.6: 1970
+Read 18.6: 250
+Read 14.5: 1886
+Read 22.6: 1423
+Read 8.1: 1763
+Read 1.5: 1301
+Read 10.4: 1050
+Read 1.1: 1425
+Write 1848 -> 38.0 : failed
+Read 41.21: failed
+Read 4.4: 1846
+Read 9.0: 1449
+Read 7.6: 1773
+Read 30.5: 1696
+Read 28.6: 1259
+Read 4.5: 1532
+Read 0.0: 1969
+Read 6.0: 1412
+Write 1292 -> 26.0 : ok
+Write 1412 -> 22.3 : ok
+Read 13.1: 1259
+Read 30.7: 0
+Read 28.0: 324
+Write 1888 -> 18.0 : ok
+Read 17.7: 1150
+Read 5.3: 1414
+Read 11.2: 1499
+Read 21.6: 1970
+Read 17.6: 1030
+Read 26.1: 1926
+Read 0.2: 1475
+Read 24.2: 1414
+Read 4.1: 133
+Read 0.2: 1475
+Read 17.1: 237
+Write 1334 -> 22.1 : ok
+Read 22.2: 1468
+Read 41.21: failed
+Read 30.7: 0
+Read 6.0: 1412
+Read 12.7: 1802
+Read 18.2: 1935
+Read 24.1: 1237
+Write 1748 -> 0.4 : ok
+Read 6.4: 1171
+Read 2.1: 1447
+Read 10.5: 185
+Read 20.6: 266
+Read 0.6: 1560
+Write 1052 -> 8.3 : ok
+Write 1646 -> 31.0 : failed
+Read 1.4: 1274
+Read 29.2: 1830
+Write 1990 -> 6.6 : ok
+Read 28.3: 1717
+Read 13.0: 1733
+Read 44.21: failed
+Read 25.6: 1217
+Write 1913 -> 4.6 : ok
+Read 11.6: 194
+Read 15.2: 1843
+Read 18.2: 1935
+Read 21.6: 1970
+Write 1518 -> 28.5 : ok
+Read 20.0: 1492
+Read 21.7: 1129
+Read 14.2: 1637
+Read 12.7: 1802
+Read 23.5: 289
+Read 11.7: 1852
+Read 22.4: 1971
+Read 22.0: 276
+Read 17.5: 1909
+Write 1801 -> 15.7 : ok
+Read 26.7: 315
+Read 28.6: 1259
+Read 10.5: 185
+Read 27.7: 1249
+Read 23.2: 286
+Read 29.5: 337
+Read 23.6: 1868
+Read 50.9: failed
+Read 13.4: 208
+Write 1031 -> 26.6 : ok
+Read 26.7: 315
+Read 31.6: failed
+Read 27.4: 1378
+Write 1900 -> 21.18 : failed
+Read 28.3: 1717
+Write 1626 -> 19.2 : ok
+Write 1134 -> 31.2 : failed
+Read 29.2: 1830
+Write 1303 -> 9.5 : ok
+Read 29.3: 1145
+Write 1290 -> 27.7 : ok
+Read 2.0: 1716
+Write 1420 -> 25.3 : ok
+Write 1271 -> 30.5 : ok
+Read 4.5: 1532
+Read 30.4: 344
+Read 6.0: 1412
+Read 15.1: 221
+Read 17.3: 1153
+Write 1146 -> 1.4 : ok
+Read 30.21: failed
+Read 21.3: 1436
+Read 12.6: 1177
+Read 2.5: 121
+Read 19.2: 1626
+Read 0.1: 1663
+Read 7.2: 1793
+Write 1565 -> 4.3 : ok
+Read 30.3: 1123
+Read 4.6: 1913
+Read 19.5: 1958
+Read 5.4: 144
+Read 3.2: 1834
+Read 15.2: 1843
+Read 12.3: 1118
+Read 19.7: 1065
+Write 1727 -> 14.3 : ok
+Read 24.4: 1127
+Read 21.3: 1436
+Read 5.2: 142
+Read 22.7: 283
+Read 20.15: failed
+Read 2.3: 1857
+Read 27.7: 1290
+Read 8.0: 164
+Read 1.5: 1301
+Write 1793 -> 17.6 : ok
+Read 4.4: 1846
+Read 8.4: 1292
+Read 16.7: 1014
+Read 0.2: 1475
+Write 1348 -> 12.0 : ok
+Read 27.0: 1006
+Read 2.4: 120
+Write 1139 -> 26.1 : ok
+Read 20.5: 1229
+Read 21.2: 270
+Read 5.2: 142
+Read 28.1: 1351
+Read 16.7: 1014
+Read 30.1: 1432
+Write 1394 -> 15.1 : ok
+Write 1276 -> 27.3 : ok
+Read 31.0: failed
+Read 28.6: 1259
+Read 1.7: 1938
+Read 0.2: 1475
+Read 17.6: 1793
+Read 6.6: 1990
+Read 38.9: failed
+Read 24.5: 1085
+Read 21.7: 1129
+Read 12.5: 201
+Read 22.6: 1423
+Read 6.1: 149
+Read 29.1: 1405
+Read 18.1: 1289
+Read 31.6: failed
+Read 12.7: 1802
+Read 28.5: 1518
+Read 26.2: 1799
+Read 1.3: 1146
+Write 1030 -> 29.4 : ok
+Read 0.0: 1969
+Read 6.5: 153
+Read 19.2: 1626
+Write 1986 -> 0.0 : ok
+Read 19.6: 1667
+Read 26.6: 1031
+Read 6.5: 153
+Read 4.3: 1565
+Read 11.4: 192
+Read 4.1: 133
+Write 1748 -> 27.0 : ok
+Read 21.1: 1185
+Write 1406 -> 11.1 : ok
+Read 0.6: 1560
+Read 7.3: 1272
+Read 18.3: 1124
+Write 1675 -> 27.3 : ok
+Write 1795 -> 9.0 : ok
+Read 12.4: 1578
+Read 45.0: failed
+Write 1614 -> 11.3 : ok
+Read 4.0: 1757
+Read 0.5: 105
+Write 1126 -> 10.1 : ok
+Read 8.5: 169
+Read 31.1: failed
+Write 1268 -> 5.2 : ok
+Read 24.6: 1913
+Write 1186 -> 22.2 : ok
+Read 3.4: 1411
+Read 11.0: 1903
+Read 26.0: 1292
+Read 29.3: 1145
+Read 16.2: 1541
+Write 1292 -> 9.4 : ok
+Read 18.0: 1888
+Read 24.1: 1237
+Read 6.3: 1179
+Read 30.2: 342
+Write 1433 -> 2.1 : ok
+Read 21.0: 1463
+Read 30.1: 1432
+Write 1382 -> 26.7 : ok
+Read 13.1: 1259
+Read 10.0: 1565
+Read 14.7: 1592
+Read 6.1: 149
+Read 9.6: 1415
+Read 24.5: 1085
+Read 23.4: 1049
+Read 28.0: 324
+Read 12.6: 1177
+Read 24.5: 1085
+Read 45.3: failed
+Read 8.1: 1763
+Read 12.3: 1118
+Read 18.4: 1496
+Read 12.2: 1197
+Read 13.5: 1381
+Read 0.1: 1663
+Read 12.5: 201
+Read 8.1: 1763
+Read 29.1: 1405
+Read 0.3: 1318
+Read 13.2: 1755
+Read 22.3: 1412
+Read 20.18: failed
+Read 3.4: 1411
+Read 28.7: 1455
+Read 18.5: 1677
+Read 29.1: 1405
+Read 31.7: failed
+Write 1512 -> 30.3 : ok
+Read 1.7: 1938
+Read 32.6: failed
+Write 1742 -> 30.7 : ok
+Read 19.6: 1667
+Read 9.6: 1415
+Read 15.1: 1394
+Write 1471 -> 19.5 : ok
+Write 1648 -> 13.2 : ok
+Read 20.5: 1229
+Write 1393 -> 24.1 : ok
+Read 18.4: 1496
+Read 22.0: 276
+Read 10.3: 1962
+Write 1263 -> 18.7 : ok
+Read 19.4: 256
+Write 1651 -> 26.5 : ok
+Read 7.5: 161
+Read 5.2: 1268
+Read 24.6: 1913
+Read 7.7: 1594
+Read 23.5: 289
+Read 10.0: 1565
+Read 37.0: failed
+Read 5.4: 144
+Read 15.0: 1647
+Read 25.5: 1825
+Read 23.4: 1049
+Read 21.3: 1436
+Read 0.3: 1318
+Read 40.0: failed
+Read 9.6: 1415
+Read 28.3: 1717
+Read 30.0: 340
+Read 31.6: failed
+Read 24.3: 1558
+Read 28.2: 326
+Read 28.4: 328
+Read 28.0: 324
+Read 26.3: 1556
+Read 24.0: 1680
+Read 13.6: 1192
+Read 16.4: 1504
+Read 31.5: failed
+Read 19.3: 1695
+Read 4.6: 1913
+Write 1899 -> 1.1 : ok
+Read 24.2: 1414
+Write 1132 -> 4.5 : ok
+Read 26.5: 1651
+Read 18.1: 1289
+Write 1317 -> 30.3 : ok
+Read 6.0: 1412
+Write 1087 -> 9.3 : ok
+Read 8.5: 169
+Write 1565 -> 23.7 : ok
+Read 12.6: 1177
+Write 1390 -> 22.1 : ok
+Read 27.6: 1143
+Read 10.4: 1050
+Read 14.7: 1592
+Read 30.6: 1089
+Read 12.3: 1118
+Read 14.7: 1592
+Read 10.3: 1962
+Read 3.7: 1758
+Read 7.3: 1272
+Read 20.7: 1957
+Read 14.2: 1637
+Read 2.4: 120
+Read 23.4: 1049
+Write 1849 -> 17.6 : ok
+Read 30.18: failed
+Read 4.3: 1565
+Read 6.6: 1990
+Read 13.1: 1259
+Write 1953 -> 27.7 : ok
+Write 1472 -> 28.3 : ok
+Read 2.0: 1716
+Read 5.6: 146
+Read 19.5: 1471
+Write 1259 -> 20.6 : ok
+Write 1073 -> 25.3 : ok
+Read 11.3: 1614
+Write 1672 -> 27.1 : ok
+Read 1.1: 1899
+Write 1753 -> 31.0 : failed
+Read 14.2: 1637
+Read 21.7: 1129
+Write 1531 -> 3.1 : ok
+Read 17.1: 237
+Read 2.5: 121
+Write 1758 -> 16.6 : ok
+Read 9.6: 1415
+Read 25.0: 300
+Write 1488 -> 14.3 : ok
+Write 1632 -> 10.6 : ok
+Write 1290 -> 14.2 : ok
+Read 14.5: 1886
+Read 29.7: 339
+Read 31.4: failed
+Read 8.5: 169
+Write 1017 -> 6.2 : ok
+Write 1599 -> 5.3 : ok
+Read 9.3: 1087
+Read 5.4: 144
+Read 14.0: 1761
+Read 29.7: 339
+Read 31.7: failed
+Read 31.6: failed
+Read 20.3: 1193
+Read 10.7: 1340
+Read 18.7: 1263
+Read 8.6: 170
+Read 28.12: failed
+Write 1440 -> 10.3 : ok
+Write 1561 -> 20.3 : ok
+Read 0.6: 1560
+Read 6.1: 149
+Read 31.4: failed
+Read 8.2: 1844
+Read 9.4: 1292
+Read 3.4: 1411
+Read 27.1: 1672
+Write 1617 -> 5.1 : ok
+Read 7.1: 1120
+Read 9.7: 1040
+Read 26.7: 1382
+Read 25.3: 1073
+Write 1918 -> 45.18 : failed
+Read 19.4: 256
+Read 10.5: 185
+Read 26.2: 1799
+Write 1092 -> 27.4 : ok
+Read 13.6: 1192
+Write 1397 -> 7.4 : ok
+Read 2.2: 1239
+Read 13.6: 1192
+Read 25.3: 1073
+Read 9.0: 1795
+Read 28.6: 1259
+Read 27.3: 1675
+Read 2.3: 1857
+Read 15.1: 1394
+Write 1428 -> 17.0 : ok
+Read 14.2: 1290
+Write 1018 -> 0.2 : ok
+Write 1437 -> 26.2 : ok
+Read 18.7: 1263
+Read 24.6: 1913
+Read 5.2: 1268
+Write 1804 -> 19.2 : ok
+Read 27.7: 1953
+Read 7.0: 1927
+Read 5.0: 1798
+Read 2.6: 1447
+Read 17.3: 1153
+Read 26.6: 1031
+Read 9.7: 1040
+Read 17.6: 1849
+Write 1588 -> 25.3 : ok
+Read 7.5: 161
+Write 1775 -> 9.7 : ok
+Read 17.1: 237
+Read 3.6: 1505
+Read 25.5: 1825
+Read 27.4: 1092
+Read 12.3: 1118
+Write 1774 -> 30.6 : ok
+Read 21.21: failed
+Read 1.1: 1899
+Write 1558 -> 27.0 : ok
+Read 20.3: 1561
+Read 15.3: 1863
+Read 16.4: 1504
+Read 18.2: 1935
+Read 19.6: 1667
+Read 6.4: 1171
+Read 23.7: 1565
+Read 28.7: 1455
+Read 0.0: 1986
+Read 15.2: 1843
+Write 1745 -> 23.4 : ok
+Read 0.3: 1318
+Read 30.1: 1432
+Read 2.5: 121
+Read 28.1: 1351
+Read 20.6: 1259
+Read 9.0: 1795
+Read 12.1: 197
+Read 28.7: 1455
+Read 0.5: 105
+Write 1391 -> 26.5 : ok
+Read 3.3: 1010
+Read 17.5: 1909
+Write 1547 -> 30.2 : ok
+Read 20.1: 261
+Read 14.4: 1277
+Read 4.3: 1565
+Read 16.6: 1758
+Read 8.7: 1276
+Write 1137 -> 8.1 : ok
+Read 14.5: 1886
+Read 8.1: 1137
+Read 2.3: 1857
+Read 43.18: failed
+Read 27.5: 321
+Read 4.1: 133
+Read 28.0: 324
+Write 1135 -> 25.4 : ok
+Write 1009 -> 15.0 : ok
+Read 0.4: 1748
+Read 20.0: 1492
+Read 17.4: 1925
+Read 6.3: 1179
+Read 19.7: 1065
+Read 23.2: 286
+Write 1141 -> 8.7 : ok
+Read 29.3: 1145
+Read 26.7: 1382
+Read 31.0: failed
+Read 15.7: 1801
+Read 15.5: 1085
+Read 28.1: 1351
+Read 14.4: 1277
+Read 17.7: 1150
+Read 29.1: 1405
+Read 27.2: 1534
+Read 43.18: failed
+Read 3.2: 1834
+Read 17.0: 1428
+Read 34.9: failed
+Write 1288 -> 2.1 : ok
+Read 20.0: 1492
+Read 31.7: failed
+Read 8.3: 1052
+Read 2.7: 1180
+Read 23.7: 1565
+Read 44.12: failed
+Read 4.2: 1664
+Read 26.3: 1556
+Write 1534 -> 18.7 : ok
+Read 15.2: 1843
+Read 6.0: 1412
+Read 5.1: 1617
+Read 9.3: 1087
+Read 16.7: 1014
+Read 28.4: 328
+Read 12.5: 201
+Read 26.1: 1139
+Write 1788 -> 13.0 : ok
+Write 1396 -> 3.4 : ok
+Read 30.4: 344
+Read 19.3: 1695
+Read 25.3: 1588
+Write 1193 -> 0.3 : ok
+Read 3.7: 1758
+Read 2.6: 1447
+Read 6.5: 153
+Read 3.1: 1531
+Read 5.1: 1617
+Read 30.0: 340
+Write 1690 -> 12.7 : ok
+Read 16.6: 1758
+Write 1866 -> 23.3 : ok
+Write 1743 -> 10.1 : ok
+Read 27.7: 1953
+Read 5.6: 146
+Read 31.6: failed
+Read 28.0: 324
+Read 7.0: 1927
+Read 0.4: 1748
+Read 20.0: 1492
+Write 1223 -> 24.2 : ok
+Read 26.7: 1382
+Read 25.0: 300
+Read 18.3: 1124
+Read 20.3: 1561
+Read 10.7: 1340
+Read 29.21: failed
+Read 24.4: 1127
+Read 1.6: 1316
+Read 27.2: 1534
+Read 21.1: 1185
+Read 3.1: 1531
+Read 8.1: 1137
+Read 8.7: 1141
+Read 10.2: 1681
+Read 15.7: 1801
+Read 42.15: failed
+Read 30.21: failed
+Read 18.4: 1496
+Read 23.7: 1565
+Read 20.7: 1957
+Write 1551 -> 7.6 : ok
+Read 3.2: 1834
+Read 31.0: failed
+Read 15.6: 1850
+Read 22.6: 1423
+Read 0.0: 1986
+Read 30.5: 1271
+Read 4.1: 133
+Read 4.6: 1913
+Read 9.0: 1795
+Read 19.5: 1471
+Read 21.1: 1185
+Read 16.2: 1541
+Read 13.0: 1788
+Read 29.2: 1830
+Write 1993 -> 24.3 : ok
+Read 28.5: 1518
+Read 0.2: 1018
+Read 14.0: 1761
+Read 2.1: 1288
+Read 16.0: 1079
+Read 20.0: 1492
+Read 30.1: 1432
+Write 1753 -> 18.2 : ok
+Read 29.4: 1030
+Read 21.7: 1129
+Read 8.0: 164
+Read 12.5: 201
+Read 27.3: 1675
+Read 14.3: 1488
+Write 1131 -> 8.1 : ok
+Read 2.4: 120
+Write 1640 -> 11.0 : ok
+Read 10.3: 1440
+Read 12.0: 1348
+Read 12.0: 1348
+Write 1447 -> 11.3 : ok
+Read 4.3: 1565
+Write 1524 -> 8.4 : ok
+Read 17.1: 237
+Read 13.7: 211
+Read 5.4: 144
+Read 13.0: 1788
+Read 25.2: 1052
+Write 1119 -> 10.6 : ok
+Read 30.6: 1774
+Read 17.1: 237
+Write 1302 -> 16.4 : ok
+Write 1977 -> 23.3 : ok
+Read 25.3: 1588
+Read 7.4: 1397
+Read 21.2: 270
+Read 10.4: 1050
+Read 10.1: 1743
+Read 7.5: 161
+Read 6.0: 1412
+Write 1779 -> 10.5 : ok
+Read 17.3: 1153
+Read 22.6: 1423
+Write 1307 -> 18.2 : ok
+Read 16.1: 1854
+Write 1024 -> 8.7 : ok
+Read 10.2: 1681
+Read 47.6: failed
+Read 31.5: failed
+Write 1321 -> 29.1 : ok
+Read 18.4: 1496
+Read 34.15: failed
+Read 3.7: 1758
+Read 12.0: 1348
+Read 30.7: 1742
+Read 13.7: 211
+Read 29.1: 1321
+Read 15.4: 1169
+Read 8.4: 1524
+Read 0.2: 1018
+Read 15.1: 1394
+Read 24.3: 1993
+Write 1523 -> 15.5 : ok
+Read 21.3: 1436
+Read 11.2: 1499
+Write 1278 -> 18.0 : ok
+Read 29.2: 1830
+Read 25.2: 1052
+Read 16.7: 1014
+Read 38.21: failed
+Read 7.7: 1594
+Read 22.6: 1423
+Write 1916 -> 0.7 : ok
+Read 20.0: 1492
+Read 21.2: 270
+Read 21.0: 1463
+Read 19.0: 1841
+Read 0.6: 1560
+Read 20.3: 1561
+Read 10.5: 1779
+Read 13.6: 1192
+Read 18.4: 1496
+Read 17.3: 1153
+Read 8.4: 1524
+Write 1006 -> 28.6 : ok
+Read 21.1: 1185
+Read 13.0: 1788
+Read 0.5: 105
+Read 6.6: 1990
+Read 28.7: 1455
+Read 20.3: 1561
+Write 1603 -> 26.3 : ok
+Read 25.0: 300
+Read 13.5: 1381
+Read 29.1: 1321
+Read 26.5: 1391
+Read 24.6: 1913
+Read 9.1: 1988
+Write 1478 -> 26.3 : ok
+Read 3.7: 1758
+Write 1165 -> 6.5 : ok
+Read 21.3: 1436
+Write 1762 -> 10.0 : ok
+Read 27.2: 1534
+Write 1947 -> 18.1 : ok
+Read 31.1: failed
+Read 4.5: 1132
+Write 1052 -> 7.5 : ok
+Write 1258 -> 19.0 : ok
+Read 11.0: 1640
+Read 24.1: 1393
+Read 6.1: 149
+Read 6.3: 1179
+Read 12.1: 197
+Read 10.7: 1340
+Read 10.7: 1340
+Read 14.0: 1761
+Read 8.6: 170
+Read 25.0: 300
+Write 1418 -> 28.2 : ok
+Read 2.3: 1857
+Write 1651 -> 3.0 : ok
+Read 14.2: 1290
+Read 25.7: 1236
+Read 5.3: 1599
+Read 25.3: 1588
+Write 1440 -> 14.0 : ok
+Read 8.3: 1052
+Read 34.9: failed
+Read 25.6: 1217
+Read 31.12: failed
+Read 27.2: 1534
+Read 31.5: failed
+Write 1334 -> 10.3 : ok
+Write 1600 -> 24.5 : ok
+Read 24.6: 1913
+Read 34.12: failed
+Read 26.0: 1292
+Read 16.1: 1854
+Read 7.4: 1397
+Write 1223 -> 29.7 : ok
+Read 4.1: 133
+Read 0.5: 105
+Read 21.4: 272
+Read 29.2: 1830
+Read 7.5: 1052
+Write 1633 -> 25.7 : ok
+Read 10.7: 1340
+Read 30.5: 1271
+Read 1.3: 1146
+Write 1182 -> 25.4 : ok
+Write 1113 -> 41.6 : failed
+Read 12.2: 1197
+Read 17.5: 1909
+Read 9.3: 1087
+Read 6.6: 1990
+Read 20.0: 1492
+Write 1617 -> 21.3 : ok
+Read 12.5: 201
+Read 4.3: 1565
+Read 8.4: 1524
+Read 19.1: 253
+Read 10.1: 1743
+Read 28.0: 324
+Write 1866 -> 19.4 : ok
+Read 32.6: failed
+Read 13.2: 1648
+Read 30.6: 1774
+Read 15.5: 1523
+Write 1317 -> 7.2 : ok
+Read 20.0: 1492
+Read 3.0: 1651
+Read 19.3: 1695
+Read 4.4: 1846
+Read 26.3: 1478
+Read 23.5: 289
+Read 21.4: 272
+Read 6.0: 1412
+Read 12.3: 1118
+Read 24.5: 1600
+Read 3.4: 1396
+Read 13.0: 1788
+Read 25.2: 1052
+Write 1645 -> 19.4 : ok
+Read 28.7: 1455
+Read 25.1: 1639
+Write 1436 -> 2.0 : ok
+Read 15.7: 1801
+Read 17.0: 1428
+Read 1.7: 1938
+Read 34.21: failed
+Read 27.0: 1558
+Read 25.3: 1588
+Read 7.5: 1052
+Read 12.4: 1578
+Write 1472 -> 5.7 : ok
+Read 26.2: 1437
+Read 20.6: 1259
+Read 19.6: 1667
+Read 20.21: failed
+Read 23.4: 1745
+Read 22.2: 1186
+Write 1607 -> 3.4 : ok
+Read 12.1: 197
+Write 1269 -> 21.0 : ok
+Write 1848 -> 17.2 : ok
+Read 12.6: 1177
+Write 1150 -> 29.4 : ok
+Read 19.0: 1258
+Read 24.1: 1393
+Read 26.3: 1478
+Read 26.1: 1139
+Write 1914 -> 16.2 : ok
+Read 0.5: 105
+Read 8.2: 1844
+Read 17.4: 1925
+Read 18.6: 250
+Read 18.5: 1677
+Read 1.4: 1146
+Read 20.3: 1561
+Read 5.7: 1472
+Read 7.0: 1927
+Read 9.5: 1303
+Read 38.0: failed
+Read 23.1: 1604
+Read 29.3: 1145
+Read 17.1: 237
+Read 9.6: 1415
+Read 24.7: 299
+Write 1172 -> 25.6 : ok
+Read 1.7: 1938
+Read 16.4: 1302
+Write 1755 -> 9.0 : ok
+Read 23.7: 1565
+Read 28.1: 1351
+Read 4.6: 1913
+Read 18.3: 1124
+Read 29.6: 1087
+Write 1266 -> 3.2 : ok
+Write 1307 -> 12.3 : ok
+Read 18.6: 250
+Read 23.0: 1650
+Read 11.3: 1447
+Read 30.6: 1774
+Read 1.3: 1146
+Read 29.3: 1145
+Write 1480 -> 10.1 : ok
+Read 19.0: 1258
+Read 1.1: 1899
+Read 18.7: 1534
+Write 1629 -> 10.4 : ok
+Write 1536 -> 17.2 : ok
+Read 2.4: 120
+Read 7.3: 1272
+Read 23.6: 1868
+Write 1119 -> 17.7 : ok
+Write 1579 -> 26.3 : ok
+Read 42.3: failed
+Read 15.2: 1843
+Read 4.7: 1493
+Read 28.21: failed
+Write 1803 -> 43.6 : failed
+Read 11.3: 1447
+Read 47.12: failed
+Read 14.6: 1962
+Read 7.7: 1594
+Read 2.7: 1180
+Read 13.2: 1648
+Read 6.4: 1171
+Read 24.7: 299
+Read 42.15: failed
+Read 19.7: 1065
+Read 7.1: 1120
+Read 2.4: 120
+Read 14.1: 1347
+Read 6.6: 1990
+Read 24.2: 1223
+Write 1956 -> 16.3 : ok
+Read 22.6: 1423
+Read 2.7: 1180
+Read 25.3: 1588
+Read 15.3: 1863
+Read 22.4: 1971
+Read 7.5: 1052
+Write 1785 -> 27.5 : ok
+Read 28.3: 1472
+Read 12.5: 201
+Read 11.6: 194
+Read 27.1: 1672
+Write 1187 -> 19.5 : ok
+Read 9.6: 1415
+Read 25.6: 1172
+Read 18.1: 1947
+Read 18.4: 1496
+Read 19.6: 1667
+Read 20.6: 1259
+Write 1585 -> 9.4 : ok
+Read 0.6: 1560
+Read 28.1: 1351
+Read 17.0: 1428
+Read 2.6: 1447
+Read 26.5: 1391
+Read 6.4: 1171
+Read 20.2: 1800
+Write 1692 -> 41.0 : failed
+Read 17.2: 1536
+Read 9.3: 1087
+Read 15.3: 1863
+Write 1068 -> 2.5 : ok
+Read 22.4: 1971
+Read 24.0: 1680
+Write 1037 -> 24.6 : ok
+Write 1338 -> 13.6 : ok
+Read 47.21: failed
+Read 8.7: 1024
+Write 1011 -> 5.1 : ok
+Read 5.7: 1472
+Write 1525 -> 10.5 : ok
+Read 15.7: 1801
+Read 27.2: 1534
+Write 1224 -> 10.4 : ok
+Read 21.4: 272
+Read 11.2: 1499
+Read 2.4: 120
+Read 11.0: 1640
+Read 30.6: 1774
+Read 6.2: 1017
+Read 12.6: 1177
+Read 5.1: 1011
+Write 1722 -> 10.7 : ok
+Read 11.0: 1640
+Read 14.7: 1592
+Read 24.4: 1127
+Read 15.5: 1523
+Read 21.1: 1185
+Read 2.3: 1857
+Write 1947 -> 16.5 : ok
+Read 15.7: 1801
+Write 1266 -> 0.2 : ok
+Read 6.1: 149
+Read 25.7: 1633
+Write 1558 -> 19.6 : ok
+Write 1169 -> 3.2 : ok
+Read 28.6: 1006
+Read 25.7: 1633
+Read 31.0: failed
+Read 29.1: 1321
+Read 17.7: 1119
+Read 7.4: 1397
+Read 29.3: 1145
+Read 8.2: 1844
+Read 17.2: 1536
+Read 17.0: 1428
+Read 10.1: 1480
+Write 1498 -> 15.4 : ok
+Read 14.2: 1290
+Read 6.5: 1165
+Write 1278 -> 11.1 : ok
+Read 5.7: 1472
+Read 29.4: 1150
+Read 21.6: 1970
+Read 31.1: failed
+Read 27.3: 1675
+Write 1804 -> 24.6 : ok
+Read 3.5: 1119
+Read 24.2: 1223
+Read 22.7: 283
+Read 5.1: 1011
+Read 16.6: 1758
+Read 19.7: 1065
+Read 2.1: 1288
+Write 1362 -> 22.6 : ok
+Read 14.2: 1290
+Read 7.0: 1927
+Read 41.0: failed
+Read 25.3: 1588
+Write 1691 -> 30.7 : ok
+Read 0.0: 1986
+Read 4.6: 1913
+Read 12.3: 1307
+Write 1987 -> 15.0 : ok
+Write 1212 -> 29.5 : ok
+Read 15.4: 1498
+Read 15.1: 1394
+Read 3.0: 1651
+Read 13.1: 1259
+Write 1363 -> 11.6 : ok
+Write 1881 -> 11.7 : ok
+Read 28.0: 324
+Read 7.7: 1594
+Read 14.5: 1886
+Write 1229 -> 13.2 : ok
+Read 31.0: failed
+Read 13.7: 211
+Read 31.5: failed
+Read 30.3: 1317
+Read 19.2: 1804
+Read 29.5: 1212
+Read 21.5: 1576
+Read 1.7: 1938
+Read 26.6: 1031
+Read 31.7: failed
+Read 21.0: 1269
+Write 1253 -> 16.2 : ok
+Write 1782 -> 0.2 : ok
+Read 8.1: 1131
+Read 25.0: 300
+Read 1.1: 1899
+Read 16.3: 1956
+Write 1538 -> 15.4 : ok
+Write 1303 -> 12.0 : ok
+Read 48.21: failed
+Read 2.5: 1068
+Read 16.2: 1253
+Read 12.4: 1578
+Read 7.6: 1551
+Write 1255 -> 30.0 : ok
+Read 31.7: failed
+Read 11.1: 1278
+Read 29.5: 1212
+Read 10.1: 1480
+Read 6.0: 1412
+Read 21.3: 1617
+Read 24.0: 1680
+Read 20.4: 264
+Write 1217 -> 9.0 : ok
+Write 1944 -> 13.6 : ok
+Read 21.4: 272
+Write 1064 -> 30.5 : ok
+Write 1852 -> 21.1 : ok
+Read 20.7: 1957
+Read 15.0: 1987
+Read 4.2: 1664
+Read 16.4: 1302
+Read 28.2: 1418
+Write 1782 -> 6.3 : ok
+Read 14.4: 1277
+Read 9.6: 1415
+Read 31.6: failed
+Read 26.5: 1391
+Read 0.6: 1560
+Write 1277 -> 8.3 : ok
+Read 20.4: 264
+Read 22.5: 1564
+Read 11.3: 1447
+Read 31.7: failed
+Read 19.0: 1258
+Read 17.5: 1909
+Read 15.3: 1863
+Read 5.3: 1599
+Write 1815 -> 8.5 : ok
+Read 11.2: 1499
+Read 15.4: 1538
+Read 28.3: 1472
+Read 3.5: 1119
+Write 1310 -> 25.6 : ok
+Read 8.6: 170
+Read 20.0: 1492
+Read 13.0: 1788
+Write 1416 -> 23.3 : ok
+Read 25.9: failed
+Write 1165 -> 26.1 : ok
+Write 1717 -> 24.2 : ok
+Read 8.3: 1277
+Read 6.5: 1165
+Write 1520 -> 7.4 : ok
+Read 18.3: 1124
+Read 28.0: 324
+Read 11.4: 192
+Read 25.3: 1588
+Write 1435 -> 20.0 : ok
+Read 2.0: 1436
+Read 28.0: 324
+Write 1010 -> 3.0 : ok
+Read 7.0: 1927
+Read 31.7: failed
+Write 1406 -> 24.4 : ok
+Write 1229 -> 12.0 : ok
+Read 1.4: 1146
+Read 31.0: failed
+Read 11.4: 192
+Read 9.1: 1988
+Read 14.1: 1347
+Read 9.2: 174
+Write 1384 -> 26.3 : ok
+Read 18.4: 1496
+Write 1210 -> 13.3 : ok
+Write 1013 -> 50.18 : failed
+Read 5.6: 146
+Read 16.3: 1956
+Read 29.3: 1145
+Read 20.1: 261
+Read 4.4: 1846
+Read 28.1: 1351
+Read 9.1: 1988
+Read 19.2: 1804
+Read 22.7: 283
+Write 1992 -> 15.6 : ok
+Read 14.0: 1440
+Write 1814 -> 7.2 : ok
+Read 7.4: 1520
+Read 6.3: 1782
+Write 1948 -> 31.5 : failed
+Write 1651 -> 11.3 : ok
+Read 13.2: 1229
+Read 5.3: 1599
+Write 1103 -> 0.0 : ok
+Write 1698 -> 27.7 : ok
+Read 28.2: 1418
+Read 8.3: 1277
+Read 31.0: failed
+Read 12.2: 1197
+Write 1959 -> 11.4 : ok
+Read 19.6: 1558
+Read 25.2: 1052
+Read 26.1: 1165
+Write 1482 -> 11.2 : ok
+Read 2.2: 1239
+Write 1955 -> 31.5 : failed
+Read 11.0: 1640
+Read 27.5: 1785
+Write 1794 -> 6.6 : ok
+Write 1100 -> 19.7 : ok
+Write 1149 -> 20.0 : ok
+Read 28.1: 1351
+Read 22.7: 283
+Read 6.2: 1017
+Read 3.5: 1119
+Write 1897 -> 2.4 : ok
+Write 1958 -> 26.4 : ok
+Read 25.1: 1639
+Read 11.1: 1278
+Read 25.6: 1310
+Read 42.3: failed
+Read 31.1: failed
+Read 18.3: 1124
+Read 17.7: 1119
+Write 1261 -> 4.1 : ok
+Read 8.7: 1024
+Read 10.1: 1480
+Read 4.0: 1757
+Read 17.6: 1849
+Read 26.3: 1384
+Read 0.2: 1782
+Read 9.2: 174
+Read 11.5: 193
+Read 26.3: 1384
+Write 1553 -> 28.1 : ok
+Read 8.3: 1277
+Write 1567 -> 30.1 : ok
+Write 1173 -> 15.6 : ok
+Read 23.0: 1650
+Read 22.1: 1390
+Read 27.5: 1785
+Read 30.15: failed
+Read 21.7: 1129
+Read 26.4: 1958
+Read 31.7: failed
+Read 14.6: 1962
+Read 16.2: 1253
+Read 11.7: 1881
+Read 27.2: 1534
+Read 18.6: 250
+Read 15.5: 1523
+Write 1727 -> 14.3 : ok
+Read 19.6: 1558
+Read 14.2: 1290
+Read 9.1: 1988
+Read 27.7: 1698
+Read 26.4: 1958
+Read 4.5: 1132
+Read 11.2: 1482
+Write 1579 -> 6.6 : ok
+Write 1785 -> 13.3 : ok
+Read 29.0: 332
+Write 1982 -> 23.7 : ok
+Read 10.4: 1224
+Read 32.21: failed
+Write 1916 -> 25.4 : ok
+Read 11.5: 193
+Read 28.6: 1006
+Read 27.1: 1672
+Read 28.2: 1418
+Read 2.2: 1239
+Read 16.5: 1947
+Read 16.4: 1302
+Read 31.2: failed
+Read 31.7: failed
+Write 1331 -> 30.3 : ok
+Read 14.3: 1727
+Read 27.6: 1143
+Read 27.5: 1785
+Read 0.1: 1663
+Read 23.4: 1745
+Read 5.0: 1798
+Read 28.2: 1418
+Read 1.4: 1146
+Read 30.5: 1064
+Read 5.1: 1011
+Read 11.0: 1640
+Read 0.0: 1103
+Write 1624 -> 18.4 : ok
+Read 20.6: 1259
+Write 1820 -> 1.2 : ok
+Read 32.9: failed
+Write 1258 -> 19.7 : ok
+Read 6.3: 1782
+Read 18.7: 1534
+Read 1.7: 1938
+Read 20.7: 1957
+Read 13.2: 1229
+Read 26.5: 1391
+Write 1875 -> 28.0 : ok
+Read 26.7: 1382
+Read 18.7: 1534
+Read 29.7: 1223
+Read 2.7: 1180
+Read 31.0: failed
+Write 1290 -> 27.4 : ok
+Read 10.0: 1762
+Read 0.5: 105
+Read 18.2: 1307
+Read 18.4: 1624
+Read 31.3: failed
+Read 15.0: 1987
+Read 43.18: failed
+Read 0.3: 1193
+Read 10.6: 1119
+Write 1325 -> 21.0 : ok
+Read 29.3: 1145
+Read 16.7: 1014
+Read 30.0: 1255
+Read 4.2: 1664
+Read 13.0: 1788
+Read 11.2: 1482
+Read 39.3: failed
+Read 28.4: 328
+Read 22.1: 1390
+Read 10.2: 1681
+Read 21.5: 1576
+Read 3.2: 1169
+Read 14.2: 1290
+Read 20.3: 1561
+Read 25.6: 1310
+Read 2.5: 1068
+Read 12.5: 201
+Write 1016 -> 0.3 : ok
+Read 15.0: 1987
+Read 25.3: 1588
+Read 15.3: 1863
+Read 11.6: 1363
+Read 4.0: 1757
+Read 18.6: 250
+Read 1.5: 1301
+Write 1520 -> 25.1 : ok
+Read 43.12: failed
+Read 25.2: 1052
+Write 1325 -> 29.0 : ok
+Read 11.5: 193
+Read 0.2: 1782
+Read 26.3: 1384
+Read 10.3: 1334
+Read 14.1: 1347
+Write 1743 -> 3.2 : ok
+Read 11.2: 1482
+Read 4.5: 1132
+Read 26.2: 1437
+Write 1804 -> 9.1 : ok
+Read 14.4: 1277
+Read 22.0: 276
+Read 28.5: 1518
+Read 18.2: 1307
+Read 9.1: 1804
+Read 31.7: failed
+Read 12.4: 1578
+Write 1706 -> 31.3 : failed
+Read 23.4: 1745
+Read 17.0: 1428
+Read 4.7: 1493
+Read 30.2: 1547
+Write 1380 -> 2.5 : ok
+Read 26.5: 1391
+Read 11.6: 1363
+Read 27.6: 1143
+Read 12.1: 197
+Read 34.0: failed
+Read 4.5: 1132
+Read 23.2: 286
+Write 1021 -> 12.6 : ok
+Read 11.2: 1482
+Read 14.2: 1290
+Read 8.7: 1024
+Write 1205 -> 0.6 : ok
+Read 8.3: 1277
+Read 5.2: 1268
+Read 8.5: 1815
+Read 19.6: 1558
+Read 30.5: 1064
+Read 8.4: 1524
+Read 30.3: 1331
+Write 1236 -> 2.3 : ok
+Read 26.1: 1165
+Read 10.4: 1224
+Read 11.0: 1640
+Write 1986 -> 0.5 : ok
+Read 17.1: 237
+Write 1297 -> 22.4 : ok
+Read 19.4: 1645
+Write 1747 -> 26.7 : ok
+Read 0.0: 1103
+Read 10.4: 1224
+Write 1079 -> 9.2 : ok
+Write 1157 -> 1.5 : ok
+Read 8.2: 1844
+Read 10.6: 1119
+Read 14.2: 1290
+Read 16.6: 1758
+Read 16.6: 1758
+Write 1956 -> 15.7 : ok
+Read 0.4: 1748
+Read 0.3: 1016
+Read 28.6: 1006
+Write 1678 -> 0.6 : ok
+Read 1.2: 1820
+Write 1931 -> 7.7 : ok
+Read 25.1: 1520
+Read 23.5: 289
+Read 11.0: 1640
+Read 6.5: 1165
+Read 25.1: 1520
+Read 20.0: 1149
+Write 1335 -> 26.0 : ok
+Read 2.4: 1897
+Read 20.6: 1259
+Read 4.2: 1664
+Read 15.3: 1863
+Read 3.2: 1743
+Write 1221 -> 12.6 : ok
+Read 28.5: 1518
+Read 13.7: 211
+Read 13.5: 1381
+Write 1835 -> 26.6 : ok
+Read 4.7: 1493
+Read 21.2: 270
+Read 30.5: 1064
+Read 16.3: 1956
+Read 2.2: 1239
+Read 1.4: 1146
+Read 47.15: failed
+Read 10.1: 1480
+Read 1.3: 1146
+Write 1384 -> 5.5 : ok
+Read 10.4: 1224
+Read 5.2: 1268
+Read 24.2: 1717
+Write 1243 -> 1.7 : ok
+Read 30.7: 1691
+Read 14.1: 1347
+Read 31.0: failed
+Write 1842 -> 7.0 : ok
+Read 30.3: 1331
+Read 26.5: 1391
+Read 7.7: 1931
+Write 1326 -> 18.4 : ok
+Write 1437 -> 30.4 : ok
+Read 35.0: failed
+Write 1475 -> 23.4 : ok
+Read 6.3: 1782
+Read 20.3: 1561
+Read 10.0: 1762
+Write 1113 -> 24.2 : ok
+Write 1792 -> 16.1 : ok
+Read 0.7: 1916
+Read 28.7: 1455
+Read 14.6: 1962
+Read 30.0: 1255
+Read 28.1: 1553
+Write 1165 -> 21.2 : ok
+Write 1265 -> 28.1 : ok
+Read 30.7: 1691
+Read 25.3: 1588
+Write 1127 -> 1.4 : ok
+Read 4.3: 1565
+Read 23.9: failed
+Read 19.0: 1258
+Write 1777 -> 20.4 : ok
+Read 0.5: 1986
+Read 21.4: 272
+Read 24.0: 1680
+Read 1.3: 1146
+Read 2.4: 1897
+Read 24.5: 1600
+Read 19.5: 1187
+Read 6.3: 1782
+Read 13.7: 211
+Read 1.0: 1373
+Write 1861 -> 49.18 : failed
+Read 20.2: 1800
+Read 12.7: 1690
+Read 28.4: 328
+Read 15.3: 1863
+Read 6.6: 1579
+Read 11.6: 1363
+Read 22.5: 1564
+Read 2.1: 1288
+Write 1933 -> 5.7 : ok
+Read 15.7: 1956
+Read 20.2: 1800
+Read 27.4: 1290
+Write 1420 -> 17.2 : ok
+Read 25.5: 1825
+Read 19.2: 1804
+Read 18.3: 1124
+Read 2.5: 1380
+Read 1.5: 1157
+Read 29.7: 1223
+Read 17.6: 1849
+Read 0.2: 1782
+Read 13.5: 1381
+Read 0.4: 1748
+Read 25.5: 1825
+Read 18.5: 1677
+Read 22.7: 283
+Read 3.3: 1010
+Read 1.4: 1127
+Write 1711 -> 20.18 : failed
+Read 14.1: 1347
+Read 9.6: 1415
+Read 22.5: 1564
+Read 23.5: 289
+Read 21.3: 1617
+Read 16.5: 1947
+Read 6.1: 149
+Read 24.12: failed
+Read 16.4: 1302
+Read 18.5: 1677
+Read 6.4: 1171
+Read 3.5: 1119
+Read 9.4: 1585
+Read 12.5: 201
+Read 3.5: 1119
+Read 15.5: 1523
+Read 11.2: 1482
+Read 24.5: 1600
+Write 1254 -> 10.0 : ok
+Read 27.0: 1558
+Read 3.7: 1758
+Write 1786 -> 26.1 : ok
+Read 50.6: failed
+Read 10.6: 1119
+Write 1341 -> 27.2 : ok
+Read 17.4: 1925
+Read 2.2: 1239
+Write 1467 -> 24.0 : ok
+Write 1742 -> 48.0 : failed
+Write 1862 -> 21.5 : ok
+Read 5.2: 1268
+Read 42.9: failed
+Write 1406 -> 30.2 : ok
+Read 23.15: failed
+Read 20.3: 1561
+Read 20.3: 1561
+Read 37.12: failed
+Read 1.3: 1146
+Read 30.4: 1437
+Read 2.2: 1239
+Write 1889 -> 15.2 : ok
+Write 1250 -> 14.2 : ok
+Read 8.6: 170
+Read 12.7: 1690
+Read 5.5: 1384
+Read 15.0: 1987
+Write 1989 -> 7.7 : ok
+Read 23.1: 1604
+Read 16.2: 1253
+Read 22.2: 1186
+Read 4.5: 1132
+Write 1129 -> 0.3 : ok
+Write 1452 -> 7.4 : ok
+Read 22.1: 1390
+Read 3.2: 1743
+Read 15.1: 1394
+Read 19.5: 1187
+Read 20.7: 1957
+Write 1236 -> 34.15 : failed
+Read 26.0: 1335
+Read 11.1: 1278
+Write 1631 -> 11.0 : ok
+Read 23.4: 1475
+Read 24.6: 1804
+Read 31.7: failed
+Read 19.3: 1695
+Read 30.7: 1691
+Read 24.2: 1113
+Read 20.6: 1259
+Read 12.3: 1307
+Read 14.7: 1592
+Write 1836 -> 35.12 : failed
+Read 20.2: 1800
+Read 50.0: failed
+Write 1634 -> 28.5 : ok
+Read 1.0: 1373
+Read 17.7: 1119
+Read 28.3: 1472
+Read 4.0: 1757
+Read 4.0: 1757
+Read 4.6: 1913
+Read 30.2: 1406
+Write 1669 -> 31.3 : failed
+Read 14.7: 1592
+Read 17.5: 1909
+Read 7.4: 1452
+Read 18.4: 1326
+Read 17.7: 1119
+Read 30.6: 1774
+Read 7.5: 1052
+Read 13.7: 211
+Read 31.0: failed
+Read 20.4: 1777
+Read 11.2: 1482
+Read 2.0: 1436
+Read 24.5: 1600
+Read 3.1: 1531
+Read 16.5: 1947
+Read 31.1: failed
+Read 26.1: 1786
+Read 25.0: 300
+Write 1335 -> 24.4 : ok
+Write 1774 -> 5.1 : ok
+Read 14.3: 1727
+Read 8.2: 1844
+Read 31.5: failed
+Read 7.6: 1551
+Read 23.0: 1650
+Write 1544 -> 19.4 : ok
+Write 1511 -> 26.0 : ok
+Read 17.2: 1420
+Read 30.0: 1255
+Write 1608 -> 6.3 : ok
+Read 2.4: 1897
+Read 26.3: 1384
+Read 13.4: 208
+Write 1331 -> 18.4 : ok
+Read 14.5: 1886
+Read 3.6: 1505
+Read 15.0: 1987
+Read 25.5: 1825
+Write 1394 -> 10.3 : ok
+Read 31.1: failed
+Read 23.0: 1650
+Read 24.7: 299
+Read 2.4: 1897
+Read 0.6: 1678
+Read 16.2: 1253
+Read 17.7: 1119
+Write 1561 -> 16.2 : ok
+Read 27.6: 1143
+Read 30.5: 1064
+Read 13.4: 208
+Read 27.0: 1558
+Read 23.7: 1982
+Read 2.0: 1436
+Read 17.1: 237
+Read 7.4: 1452
+Read 16.1: 1792
+Read 29.2: 1830
+Read 2.0: 1436
+Read 17.1: 237
+Read 41.18: failed
+Write 1206 -> 21.7 : ok
+Read 4.3: 1565
+Read 0.7: 1916
+Write 1137 -> 27.2 : ok
+Read 6.7: 1185
+Read 26.7: 1747
+Read 28.4: 328
+Read 31.7: failed
+Read 5.2: 1268
+Read 21.4: 272
+Read 27.3: 1675
+Read 2.3: 1236
+Read 18.0: 1278
+Read 9.5: 1303
+Read 28.2: 1418
+Read 10.7: 1722
+Read 4.4: 1846
+Read 0.4: 1748
+Read 22.5: 1564
+Read 0.0: 1103
+Read 40.0: failed
+Read 30.5: 1064
+Read 31.6: failed
+Read 9.0: 1217
+Write 1598 -> 0.6 : ok
+Read 18.5: 1677
+Read 24.7: 299
+Read 9.4: 1585
+Read 15.2: 1889
+Read 15.0: 1987
+Read 22.3: 1412
+Read 8.2: 1844
+Read 8.1: 1131
+Read 6.1: 149
+Read 12.2: 1197
+Write 1943 -> 5.3 : ok
+Read 20.5: 1229
+Read 14.7: 1592
+Read 20.1: 261
+Read 28.7: 1455
+Read 17.5: 1909
+Write 1911 -> 34.18 : failed
+Read 15.3: 1863
+Read 6.4: 1171
+Write 1129 -> 9.2 : ok
+Write 1723 -> 7.2 : ok
+Read 18.3: 1124
+Read 9.3: 1087
+Write 1354 -> 15.4 : ok
+Read 5.3: 1943
+Write 1784 -> 24.6 : ok
+Read 16.1: 1792
+Read 25.7: 1633
+Write 1879 -> 0.3 : ok
+Write 1128 -> 18.1 : ok
+Write 1968 -> 26.4 : ok
+Write 1485 -> 27.5 : ok
+Read 26.5: 1391
+Write 1298 -> 22.6 : ok
+Read 22.5: 1564
+Write 1277 -> 28.6 : ok
+Write 1111 -> 27.0 : ok
+Read 31.5: failed
+Read 22.1: 1390
+Read 29.4: 1150
+Read 24.6: 1784
+Read 5.2: 1268
+Read 30.0: 1255
+Read 17.3: 1153
+Read 0.7: 1916
+Read 23.0: 1650
+Read 16.3: 1956
+Read 9.5: 1303
+Read 0.5: 1986
+Read 19.3: 1695
+Write 1963 -> 29.0 : ok
+Read 30.0: 1255
+Read 12.1: 197
+Read 21.3: 1617
+Read 10.1: 1480
+Read 15.7: 1956
+Read 7.3: 1272
+Read 2.5: 1380
+Read 23.18: failed
+Read 19.1: 253
+Read 9.4: 1585
+Read 20.6: 1259
+Read 13.5: 1381
+Read 31.6: failed
+Write 1012 -> 12.0 : ok
+Read 12.7: 1690
+Write 1454 -> 19.0 : ok
+Write 1961 -> 3.3 : ok
+Read 29.4: 1150
+Read 8.5: 1815
+Read 29.0: 1963
+Read 39.9: failed
+Read 4.0: 1757
+Write 1088 -> 10.2 : ok
+Read 30.6: 1774
+Read 13.6: 1944
+Read 14.2: 1250
+Read 18.3: 1124
+Read 16.6: 1758
+Read 28.4: 328
+Read 24.7: 299
+Read 26.1: 1786
+Read 27.1: 1672
+Read 5.4: 144
+Read 26.4: 1968
+Read 4.4: 1846
+Read 0.7: 1916
+Write 1425 -> 20.0 : ok
+Read 2.4: 1897
+Write 1027 -> 22.18 : failed
+Read 16.5: 1947
+Read 30.1: 1567
+Read 10.6: 1119
+Read 17.5: 1909
+Read 6.2: 1017
+Write 1092 -> 23.1 : ok
+Read 22.4: 1297
+Read 9.0: 1217
+Write 1210 -> 25.3 : ok
+Read 6.1: 149
+Read 29.3: 1145
+Read 6.3: 1608
+Read 30.6: 1774
+Write 1450 -> 20.7 : ok
+Read 23.0: 1650
+Read 9.7: 1775
+Read 20.2: 1800
+Read 23.0: 1650
+Read 1.5: 1157
+Read 22.6: 1298
+Read 0.4: 1748
+Read 19.1: 253
+Read 17.3: 1153
+Read 8.3: 1277
+Read 14.5: 1886
+Write 1157 -> 21.0 : ok
+Read 13.1: 1259
+Read 1.3: 1146
+Read 31.3: failed
+Read 31.5: failed
+Read 15.5: 1523
+Write 1699 -> 6.2 : ok
+Read 27.5: 1485
+Read 21.6: 1970
+Read 0.2: 1782
+Read 5.0: 1798
+Read 26.6: 1835
+Read 0.1: 1663
+Read 18.7: 1534
+Read 25.2: 1052
+Read 14.3: 1727
+Read 19.7: 1258
+Read 16.0: 1079
+Read 15.4: 1354
+Write 1478 -> 6.0 : ok
+Write 1654 -> 38.18 : failed
+Read 16.3: 1956
+Read 1.3: 1146
+Read 10.3: 1394
+Read 14.7: 1592
+Write 1692 -> 5.0 : ok
+Read 33.6: failed
+Read 26.6: 1835
+Read 26.0: 1511
+Read 29.0: 1963
+Read 30.2: 1406
+Read 20.4: 1777
+Read 24.1: 1393
+Read 21.0: 1157
+Read 17.3: 1153
+Read 29.1: 1321
+Read 50.6: failed
+Read 25.5: 1825
+Read 0.4: 1748
+Read 31.3: failed
+Write 1558 -> 3.0 : ok
+Write 1088 -> 10.7 : ok
+Read 15.0: 1987
+Write 1402 -> 5.2 : ok
+Write 1777 -> 36.18 : failed
+Read 0.1: 1663
+Read 27.3: 1675
+Read 7.4: 1452
+Read 46.21: failed
+Read 7.2: 1723
+Write 1339 -> 15.1 : ok
+Read 32.3: failed
+Read 2.0: 1436
+Read 51.3: failed
+Read 48.6: failed
+Read 22.1: 1390
+Read 14.3: 1727
+Write 1119 -> 17.1 : ok
+Read 18.6: 250
+Read 23.4: 1475
+Read 16.7: 1014
+Write 1225 -> 10.7 : ok
+Read 15.6: 1173
+Read 18.4: 1331
+Read 17.6: 1849
+Read 28.6: 1277
+Read 19.0: 1454
+Write 1308 -> 10.4 : ok
+Read 6.4: 1171
+Read 7.4: 1452
+Read 20.4: 1777
+Read 7.1: 1120
+Read 21.4: 272
+Read 27.1: 1672
+Read 13.7: 211
+Read 30.2: 1406
+Write 1255 -> 26.6 : ok
+Read 25.5: 1825
+Read 0.4: 1748
+Read 6.2: 1699
+Read 5.0: 1692
+Write 1276 -> 31.6 : failed
+Read 20.2: 1800
+Read 17.1: 1119
+Read 19.7: 1258
+Read 29.6: 1087
+Write 1095 -> 22.4 : ok
+Read 31.1: failed
+Read 11.5: 193
+Read 4.0: 1757
+Read 0.0: 1103
+Read 30.3: 1331
+Read 0.4: 1748
+Read 6.7: 1185
+Read 14.5: 1886
+Read 14.6: 1962
+Write 1597 -> 18.4 : ok
+Read 5.3: 1943
+Write 1870 -> 26.6 : ok
+Write 1347 -> 10.1 : ok
+Write 1771 -> 5.6 : ok
+Read 20.6: 1259
+Read 25.6: 1310
+Read 11.4: 1959
+Read 16.3: 1956
+Read 26.7: 1747
+Read 4.0: 1757
+Read 10.6: 1119
+Read 11.1: 1278
+Read 0.5: 1986
+Read 26.7: 1747
+Read 29.3: 1145
+Write 1782 -> 1.3 : ok
+Read 3.5: 1119
+Read 8.5: 1815
+Read 21.4: 272
+Write 1896 -> 23.1 : ok
+Read 15.4: 1354
+Read 15.6: 1173
+Read 0.6: 1598
+Read 30.5: 1064
+Write 1984 -> 4.4 : ok
+Read 5.4: 144
+Read 11.4: 1959
+Read 10.2: 1088
+Read 23.2: 286
+Read 14.5: 1886
+Read 5.4: 144
+Write 1179 -> 11.5 : ok
+Read 22.2: 1186
+Read 13.6: 1944
+Read 23.2: 286
+Read 23.7: 1982
+Read 9.2: 1129
+Read 27.0: 1111
+Read 12.4: 1578
+Read 5.3: 1943
+Write 1585 -> 20.3 : ok
+Read 8.4: 1524
+Read 30.3: 1331
+Read 20.2: 1800
+Read 4.7: 1493
+Read 20.5: 1229
+Read 27.1: 1672
+Read 40.15: failed
+Read 5.7: 1933
+Read 12.7: 1690
+Write 1470 -> 18.5 : ok
+Read 21.15: failed
+Read 1.6: 1316
+Read 17.5: 1909
+Read 6.5: 1165
+Read 6.6: 1579
+Write 1469 -> 11.7 : ok
+Read 7.1: 1120
+Read 29.4: 1150
+Read 26.5: 1391
+Read 20.4: 1777
+Read 22.3: 1412
+Read 18.5: 1470
+Read 5.7: 1933
+Write 1873 -> 16.6 : ok
+Read 24.2: 1113
+Write 1913 -> 20.0 : ok
+Write 1472 -> 17.7 : ok
+Read 10.0: 1254
+Read 4.3: 1565
+Read 1.3: 1782
+Read 18.1: 1128
+Read 16.1: 1792
+Read 27.5: 1485
+Read 22.4: 1095
+Read 31.1: failed
+Read 15.3: 1863
+Read 22.7: 283
+Read 20.0: 1913
+Write 1151 -> 2.1 : ok
+Read 9.2: 1129
+Write 1645 -> 14.5 : ok
+Read 5.1: 1774
+Read 25.5: 1825
+Write 1245 -> 31.5 : failed
+Write 1424 -> 10.3 : ok
+Read 8.5: 1815
+Read 2.6: 1447
+Read 22.4: 1095
+Read 0.1: 1663
+Read 49.12: failed
+Write 1233 -> 19.1 : ok
+Write 1299 -> 15.4 : ok
+Read 7.2: 1723
+Write 1554 -> 2.6 : ok
+Read 13.0: 1788
+Read 19.5: 1187
+Read 10.6: 1119
+Read 16.6: 1873
+Read 23.7: 1982
+Read 20.2: 1800
+Read 5.7: 1933
+Read 6.2: 1699
+Write 1914 -> 18.1 : ok
+Read 9.0: 1217
+Read 21.7: 1206
+Write 1473 -> 5.2 : ok
+Read 14.3: 1727
+Read 6.5: 1165
+Read 8.3: 1277
+Read 24.1: 1393
+Read 15.6: 1173
+Read 0.2: 1782
+Read 33.18: failed
+Read 11.6: 1363
+Read 21.0: 1157
+Read 20.1: 261
+Read 9.3: 1087
+Read 0.0: 1103
+Read 41.15: failed
+Read 3.0: 1558
+Write 1656 -> 8.0 : ok
+Read 30.1: 1567
+Read 31.5: failed
+Read 22.6: 1298
+Read 19.0: 1454
+Read 6.2: 1699
+Read 26.6: 1870
+Write 1130 -> 7.2 : ok
+Read 5.1: 1774
+Read 9.0: 1217
+Read 1.1: 1899
+Read 3.4: 1607
+Read 21.12: failed
+Write 1336 -> 17.7 : ok
+Read 19.0: 1454
+Read 19.0: 1454
+Read 26.2: 1437
+Read 5.0: 1692
+Read 7.6: 1551
+Write 1525 -> 8.3 : ok
+Read 19.7: 1258
+Read 4.6: 1913
+Read 10.6: 1119
+Read 29.3: 1145
+Write 1091 -> 14.3 : ok
+Read 31.2: failed
+Read 27.6: 1143
+Read 27.5: 1485
+Read 26.1: 1786
+Read 13.3: 1785
+Read 0.4: 1748
+Read 20.3: 1585
+Read 26.5: 1391
+Read 14.0: 1440
+Read 20.5: 1229
+Read 19.1: 1233
+Read 20.3: 1585
+Read 25.3: 1210
+Read 30.7: 1691
+Read 17.4: 1925
+Read 16.6: 1873
+Read 26.0: 1511
+Read 6.3: 1608
+Read 3.7: 1758
+Read 21.2: 1165
+Read 12.2: 1197
+Write 1889 -> 20.0 : ok
+Read 19.1: 1233
+Read 0.7: 1916
+Read 20.3: 1585
+Read 22.3: 1412
+Read 5.7: 1933
+Read 4.4: 1984
+Read 9.3: 1087
+Read 4.1: 1261
+Read 15.5: 1523
+Read 26.3: 1384
+Read 19.3: 1695
+Read 24.0: 1467
+Read 29.2: 1830
+Read 28.3: 1472
+Read 31.2: failed
+Read 14.1: 1347
+Write 1761 -> 42.6 : failed
+Read 19.2: 1804
+Read 14.0: 1440
+Write 1792 -> 12.2 : ok
+Read 7.1: 1120
+Read 11.7: 1469
+Read 10.1: 1347
+Read 31.4: failed
+Read 31.7: failed
+Write 1118 -> 12.3 : ok
+Read 6.6: 1579
+Read 18.0: 1278
+Read 29.6: 1087
+Read 18.0: 1278
+Read 16.0: 1079
+Write 1964 -> 19.0 : ok
+Read 9.1: 1804
+Write 1420 -> 42.0 : failed
+Read 0.3: 1879
+Read 4.0: 1757
+Read 2.0: 1436
+Write 1625 -> 31.4 : failed
+Read 14.1: 1347
+Read 11.4: 1959
+Read 25.3: 1210
+Write 1495 -> 28.5 : ok
+Write 1825 -> 7.5 : ok
+Read 1.3: 1782
+Write 1157 -> 5.2 : ok
+Read 16.6: 1873
+Write 1008 -> 18.7 : ok
+Write 1432 -> 9.7 : ok
+Read 28.5: 1495
+Read 17.5: 1909
+Read 29.5: 1212
+Write 1724 -> 15.1 : ok
+Write 1376 -> 24.3 : ok
+Read 20.2: 1800
+Read 6.2: 1699
+Read 29.21: failed
+Write 1749 -> 1.0 : ok
+Read 14.5: 1645
+Read 29.7: 1223
+Write 1087 -> 29.6 : ok
+Read 22.5: 1564
+Read 29.5: 1212
+Read 27.7: 1698
+Read 0.1: 1663
+Read 31.4: failed
+Write 1228 -> 18.7 : ok
+Read 0.6: 1598
+Read 16.3: 1956
+Read 11.4: 1959
+Read 16.0: 1079
+Write 1423 -> 48.9 : failed
+Read 28.1: 1265
+Read 23.6: 1868
+Read 1.7: 1243
+Write 1336 -> 24.2 : ok
+Read 13.3: 1785
+Read 6.0: 1478
+Read 0.5: 1986
+Read 11.7: 1469
+Write 1471 -> 34.21 : failed
+Read 44.21: failed
+Write 1256 -> 14.1 : ok
+Read 24.0: 1467
+Write 1381 -> 47.0 : failed
+Write 1435 -> 1.5 : ok
+Read 25.4: 1916
+Read 23.5: 289
+Read 17.4: 1925
+Read 16.2: 1561
+Read 27.2: 1137
+Write 1795 -> 51.9 : failed
+Read 30.3: 1331
+Read 23.4: 1475
+Read 18.3: 1124
+Read 28.0: 1875
+Read 31.5: failed
+Read 2.0: 1436
+Read 5.2: 1157
+Write 1363 -> 21.7 : ok
+Write 1680 -> 21.21 : failed
+Write 1738 -> 10.1 : ok
+Read 12.3: 1118
+Read 31.0: failed
+Read 23.0: 1650
+Read 8.6: 170
+Read 16.3: 1956
+Read 4.0: 1757
+Read 28.0: 1875
+Read 29.1: 1321
+Read 10.2: 1088
+Read 9.1: 1804
+Read 23.3: 1416
+Read 11.3: 1651
+Read 11.7: 1469
+Read 17.5: 1909
+Read 28.0: 1875
+Read 22.2: 1186
+Read 8.1: 1131
+Read 0.1: 1663
+Read 30.5: 1064
+Read 1.5: 1435
+Read 20.6: 1259
+Read 23.5: 289
+Read 15.2: 1889
+Write 1030 -> 20.0 : ok
+Read 23.6: 1868
+Read 0.3: 1879
+Write 1397 -> 3.5 : ok
+Read 7.1: 1120
+Read 18.0: 1278
+Read 18.0: 1278
+Read 23.0: 1650
+Read 29.4: 1150
+Write 1809 -> 1.3 : ok
+Read 4.2: 1664
+Read 10.4: 1308
+Read 23.6: 1868
+Read 8.6: 170
+Read 15.2: 1889
+Read 18.2: 1307
+Read 3.7: 1758
+Read 29.0: 1963
+Read 2.0: 1436
+Read 23.2: 286
+Read 28.0: 1875
+Read 13.6: 1944
+Read 27.1: 1672
+Read 8.6: 170
+Write 1564 -> 20.3 : ok
+Read 25.6: 1310
+Read 6.7: 1185
+Read 18.0: 1278
+Read 31.5: failed
+Read 6.4: 1171
+Read 3.3: 1961
+Read 1.4: 1127
+Read 3.2: 1743
+Read 23.0: 1650
+Read 28.6: 1277
+Read 13.3: 1785
+Read 20.1: 261
+Write 1240 -> 10.0 : ok
+Read 22.7: 283
+Read 19.6: 1558
+Read 8.0: 1656
+Read 2.7: 1180
+Read 3.6: 1505
+Read 11.5: 1179
+Read 8.3: 1525
+Read 28.5: 1495
+Read 20.1: 261
+Read 2.1: 1151
+Read 31.0: failed
+Write 1450 -> 14.0 : ok
+Read 47.12: failed
+Read 5.1: 1774
+Read 9.1: 1804
+Write 1795 -> 5.1 : ok
+Read 0.1: 1663
+Write 1098 -> 27.5 : ok
+Read 30.1: 1567
+Read 10.0: 1240
+Read 14.1: 1256
+Write 1037 -> 19.5 : ok
+Read 25.2: 1052
+Read 4.7: 1493
+Read 23.9: failed
+Read 11.5: 1179
+Read 15.0: 1987
+Read 31.2: failed
+Write 1448 -> 11.2 : ok
+Write 1021 -> 16.4 : ok
+Read 21.7: 1363
+Read 1.2: 1820
+Read 23.1: 1896
+Read 6.4: 1171
+Read 2.2: 1239
+Read 1.4: 1127
+Read 21.3: 1617
+Read 11.1: 1278
+Read 8.0: 1656
+Read 30.5: 1064
+Read 18.2: 1307
+Read 14.7: 1592
+Read 4.5: 1132
+Write 1401 -> 16.4 : ok
+Read 10.0: 1240
+Write 1031 -> 26.5 : ok
+Read 27.3: 1675
+Read 5.0: 1692
+Write 1374 -> 5.6 : ok
+Write 1519 -> 30.0 : ok
+Read 1.5: 1435
+Write 1580 -> 7.0 : ok
+Write 1389 -> 21.4 : ok
+Read 27.1: 1672
+Read 18.1: 1914
+Read 4.5: 1132
+Write 1222 -> 8.1 : ok
+Read 22.0: 276
+Write 1473 -> 26.1 : ok
+Read 30.4: 1437
+Read 10.0: 1240
+Read 12.6: 1221
+Read 31.0: failed
+Write 1996 -> 17.7 : ok
+Read 6.3: 1608
+Read 25.4: 1916
+Read 10.2: 1088
+Read 12.5: 201
+Write 1768 -> 3.5 : ok
+Read 31.5: failed
+Read 16.0: 1079
+Read 31.4: failed
+Read 13.3: 1785
+Read 24.2: 1336
+Write 1276 -> 22.6 : ok
+Read 19.7: 1258
+Write 1555 -> 22.0 : ok
+Write 1906 -> 26.6 : ok
+Read 8.5: 1815
+Read 2.6: 1554
+Read 8.1: 1222
+Read 3.3: 1961
+Write 1157 -> 1.2 : ok
+Read 18.5: 1470
+Read 35.6: failed
+Read 28.0: 1875
+Read 27.2: 1137
+Write 1813 -> 13.7 : ok
+Read 47.0: failed
+Read 5.4: 144
+Read 26.6: 1906
+Read 10.5: 1525
+Write 1602 -> 35.9 : failed
+Read 8.1: 1222
+Read 29.5: 1212
+Write 1211 -> 21.9 : failed
+Read 19.5: 1037
+Read 1.0: 1749
+Write 1586 -> 9.3 : ok
+Read 3.0: 1558
+Read 7.4: 1452
+Read 19.0: 1964
+Read 24.12: failed
+Read 11.4: 1959
+Read 15.0: 1987
+Read 8.3: 1525
+Read 23.6: 1868
+Write 1231 -> 12.5 : ok
+Read 4.7: 1493
+Write 1573 -> 0.7 : ok
+Read 10.5: 1525
+Read 29.2: 1830
+Read 17.0: 1428
+Write 1925 -> 1.0 : ok
+Write 1729 -> 28.6 : ok
+Read 18.5: 1470
+Read 7.7: 1989
+Read 18.7: 1228
+Read 2.7: 1180
+Read 24.1: 1393
+Read 9.4: 1585
+Read 18.7: 1228
+Read 25.6: 1310
+Write 1904 -> 8.3 : ok
+Read 29.5: 1212
+Read 31.7: failed
+Read 15.5: 1523
+Read 21.5: 1862
+Read 13.0: 1788
+Read 20.5: 1229
+Read 21.5: 1862
+Read 19.4: 1544
+Read 23.4: 1475
+Read 23.0: 1650
+Write 1586 -> 27.4 : ok
+Read 15.7: 1956
+Read 21.0: 1157
+Read 7.2: 1130
+Read 15.5: 1523
+Read 29.6: 1087
+Read 11.6: 1363
+Read 17.5: 1909
+Read 7.5: 1825
+Read 30.6: 1774
+Read 29.4: 1150
+Write 1805 -> 3.7 : ok
+Read 6.0: 1478
+Read 10.3: 1424
+Read 5.7: 1933
+Read 14.3: 1091
+Read 4.2: 1664
+Read 29.6: 1087
+Read 20.6: 1259
+Read 18.0: 1278
+Read 25.5: 1825
+Read 18.7: 1228
+Write 1420 -> 11.1 : ok
+Write 1973 -> 24.3 : ok
+Read 9.6: 1415
+Read 18.4: 1597
+Read 8.3: 1904
+Read 14.4: 1277
+Read 30.4: 1437
+Read 24.4: 1335
+Read 14.1: 1256
+Read 11.3: 1651
+Read 7.6: 1551
+Read 12.2: 1792
+Read 5.3: 1943
+Read 11.0: 1631
+Read 15.3: 1863
+Write 1599 -> 29.1 : ok
+Write 1735 -> 0.2 : ok
+Read 26.0: 1511
+Read 7.5: 1825
+Read 18.0: 1278
+Read 23.1: 1896
+Write 1507 -> 28.2 : ok
+Read 13.2: 1229
+Read 26.4: 1968
+Read 3.1: 1531
+Write 1306 -> 18.6 : ok
+Read 24.3: 1973
+Read 16.5: 1947
+Read 1.7: 1243
+Read 6.7: 1185
+Write 1809 -> 9.4 : ok
+Read 27.2: 1137
+Read 8.3: 1904
+Read 22.3: 1412
+Write 1007 -> 4.5 : ok
+Read 26.4: 1968
+Read 7.6: 1551
+Read 19.4: 1544
+Read 26.0: 1511
+Read 39.15: failed
+Read 4.2: 1664
+Read 7.6: 1551
+Read 26.3: 1384
+Read 9.3: 1586
+Read 28.3: 1472
+Read 0.1: 1663
+Read 23.7: 1982
+Read 51.15: failed
+Write 1154 -> 0.2 : ok
+Read 4.7: 1493
+Read 3.6: 1505
+Write 1459 -> 12.7 : ok
+Read 17.7: 1996
+Write 1216 -> 26.3 : ok
+Read 8.5: 1815
+Read 0.7: 1573
+Read 31.7: failed
+Read 27.1: 1672
+Read 27.4: 1586
+Read 18.2: 1307
+Read 31.0: failed
+Read 6.0: 1478
+Write 1292 -> 14.4 : ok
+Read 9.0: 1217
+Read 5.2: 1157
+Read 18.0: 1278
+Write 1431 -> 13.7 : ok
+Read 25.3: 1210
+Read 28.4: 328
+Read 18.3: 1124
+Write 1324 -> 22.0 : ok
+Read 17.0: 1428
+Write 1689 -> 18.7 : ok
+Read 14.1: 1256
+Write 1974 -> 0.6 : ok
+Read 18.6: 1306
+Read 43.3: failed
+Read 8.0: 1656
+Read 6.7: 1185
+Read 10.3: 1424
+Read 15.4: 1299
+Read 2.3: 1236
+Read 5.3: 1943
+Write 1862 -> 15.1 : ok
+Read 30.5: 1064
+Read 1.6: 1316
+Read 24.0: 1467
+Read 24.0: 1467
+Read 30.6: 1774
+Read 15.7: 1956
+Write 1727 -> 16.6 : ok
+Read 18.1: 1914
+Write 1160 -> 19.5 : ok
+Write 1760 -> 25.6 : ok
+Write 1025 -> 8.4 : ok
+Write 1913 -> 22.5 : ok
+Read 9.3: 1586
+Read 15.6: 1173
+Read 15.7: 1956
+Read 3.4: 1607
+Read 0.5: 1986
+Read 3.4: 1607
+Read 20.12: failed
+Read 30.18: failed
+Read 1.4: 1127
+Read 30.6: 1774
+Read 0.6: 1974
+Read 21.4: 1389
+Read 7.0: 1580
+Read 12.3: 1118
+Write 1884 -> 4.6 : ok
+Read 11.7: 1469
+Read 23.3: 1416
+Read 25.5: 1825
+Read 5.5: 1384
+Read 19.0: 1964
+Read 26.6: 1906
+Write 1175 -> 14.1 : ok
+Read 9.6: 1415
+Read 37.6: failed
+Write 1120 -> 24.2 : ok
+Read 1.7: 1243
+Read 18.6: 1306
+Read 31.6: failed
+Read 19.7: 1258
+Read 5.5: 1384
+Read 25.6: 1760
+Read 28.5: 1495
+Read 28.5: 1495
+Read 11.5: 1179
+Read 19.5: 1160
+Read 22.4: 1095
+Read 12.0: 1012
+Read 27.2: 1137
+Read 22.6: 1276
+Write 1502 -> 14.1 : ok
+Read 9.0: 1217
+Read 15.4: 1299
+Read 4.6: 1884
+Read 13.6: 1944
+Read 22.3: 1412
+Read 31.7: failed
+Read 10.0: 1240
+Write 1605 -> 30.3 : ok
+Read 0.7: 1573
+Read 5.2: 1157
+Read 27.2: 1137
+Read 17.6: 1849
+Write 1781 -> 29.1 : ok
+Read 10.5: 1525
+Read 29.5: 1212
+Read 16.1: 1792
+Read 26.9: failed
+Read 19.1: 1233
+Write 1315 -> 23.5 : ok
+Read 15.1: 1862
+Read 17.1: 1119
+Read 24.1: 1393
+Read 9.5: 1303
+Read 13.6: 1944
+Read 9.5: 1303
+Read 2.3: 1236
+Read 18.4: 1597
+Read 8.7: 1024
+Read 3.7: 1805
+Read 13.6: 1944
+Read 23.6: 1868
+Read 24.7: 299
+Read 6.0: 1478
+Read 16.6: 1727
+Read 1.6: 1316
+Read 21.2: 1165
+Read 24.4: 1335
+Write 1347 -> 22.4 : ok
+Write 1374 -> 11.7 : ok
+Read 31.5: failed
+Read 12.3: 1118
+Read 26.7: 1747
+Read 15.1: 1862
+Write 1955 -> 24.0 : ok
+Write 1894 -> 20.1 : ok
+Read 30.3: 1605
+Read 24.6: 1784
+Read 20.2: 1800
+Read 31.3: failed
+Write 1830 -> 7.3 : ok
+Read 15.0: 1987
+Read 16.5: 1947
+Read 16.7: 1014
+Read 31.1: failed
+Read 10.7: 1225
+Write 1761 -> 18.1 : ok
+Read 6.1: 149
+Read 25.3: 1210
+Read 10.2: 1088
+Read 5.2: 1157
+Read 25.6: 1760
+Read 23.6: 1868
+Read 25.6: 1760
+Read 30.0: 1519
+Write 1087 -> 27.7 : ok
+Read 1.0: 1925
+Write 1843 -> 11.5 : ok
+Read 17.6: 1849
+Write 1786 -> 26.0 : ok
+Write 1264 -> 20.5 : ok
+Read 26.6: 1906
+Write 1864 -> 23.7 : ok
+Read 7.0: 1580
+Read 30.7: 1691
+Read 29.1: 1781
+Read 20.6: 1259
+Read 16.6: 1727
+Read 1.4: 1127
+Read 12.4: 1578
+Read 21.4: 1389
+Write 1635 -> 5.0 : ok
+Read 21.3: 1617
+Read 19.1: 1233
+Write 1770 -> 13.1 : ok
+Write 1402 -> 8.1 : ok
+Read 3.2: 1743
+Read 24.7: 299
+Read 30.4: 1437
+Write 1546 -> 5.7 : ok
+Read 30.7: 1691
+Read 13.7: 1431
+Read 8.5: 1815
+Write 1126 -> 6.4 : ok
+Read 27.4: 1586
+Read 13.0: 1788
+Read 9.4: 1809
+Read 12.1: 197
+Read 30.0: 1519
+Read 14.1: 1502
+Read 16.1: 1792
+Read 25.4: 1916
+Read 23.0: 1650
+Read 17.5: 1909
+Read 2.6: 1554
+Write 1948 -> 16.5 : ok
+Read 13.1: 1770
+Read 24.1: 1393
+Read 22.3: 1412
+Read 17.5: 1909
+Read 3.3: 1961
+Write 1676 -> 16.3 : ok
+Read 11.4: 1959
+Read 5.0: 1635
+Read 19.4: 1544
+Read 24.2: 1120
+Read 0.2: 1154
+Read 28.6: 1729
+Read 0.7: 1573
+Read 30.3: 1605
+Read 1.3: 1809
+Read 29.15: failed
+Read 9.7: 1432
+Write 1754 -> 14.2 : ok
+Read 2.4: 1897
+Read 38.18: failed
+Write 1294 -> 25.1 : ok
+Read 2.1: 1151
+Write 1308 -> 8.1 : ok
+Read 14.2: 1754
+Read 27.6: 1143
+Read 20.4: 1777
+Read 7.3: 1830
+Read 16.1: 1792
+Write 1903 -> 21.4 : ok
+Read 13.2: 1229
+Write 1774 -> 27.1 : ok
+Read 24.3: 1973
+Write 1620 -> 16.6 : ok
+Read 17.5: 1909
+Read 12.0: 1012
+Read 13.7: 1431
+Read 42.9: failed
+Write 1182 -> 8.7 : ok
+Read 20.0: 1030
+Write 1521 -> 14.5 : ok
+Read 15.6: 1173
+Read 27.5: 1098
+Read 0.3: 1879
+Write 1709 -> 28.6 : ok
+Write 1020 -> 24.1 : ok
+Read 30.4: 1437
+Write 1236 -> 29.2 : ok
+Read 30.2: 1406
+Read 4.4: 1984
+Read 13.2: 1229
+Read 22.3: 1412
+Read 2.0: 1436
+Read 9.7: 1432
+Read 7.3: 1830
+Read 0.0: 1103
+Read 19.7: 1258
+Read 5.6: 1374
+Read 11.4: 1959
+Write 1317 -> 15.3 : ok
+Read 6.1: 149
+Read 22.3: 1412
+Read 5.2: 1157
+Read 8.2: 1844
+Write 1213 -> 12.6 : ok
+Read 13.6: 1944
+Read 24.0: 1955
+Read 3.5: 1768
+Write 1284 -> 13.4 : ok
+Write 1901 -> 6.3 : ok
+Read 7.3: 1830
+Read 46.15: failed
+Read 14.2: 1754
+Read 3.6: 1505
+Write 1408 -> 19.1 : ok
+Read 19.0: 1964
+Read 8.5: 1815
+Read 41.12: failed
+Read 28.9: failed
+Read 30.2: 1406
+Read 20.0: 1030
+Read 14.6: 1962
+Read 10.4: 1308
+Read 2.5: 1380
+Read 4.4: 1984
+Read 18.2: 1307
+Write 1984 -> 7.3 : ok
+Read 20.5: 1264
+Read 10.6: 1119
+Read 5.6: 1374
+Read 33.0: failed
+Read 2.5: 1380
+Read 6.5: 1165
+Write 1984 -> 12.1 : ok
+Read 26.0: 1786
+Write 1330 -> 13.3 : ok
+Write 1450 -> 13.6 : ok
+Read 29.4: 1150
+Write 1584 -> 1.3 : ok
+Read 20.6: 1259
+Read 48.0: failed
+Read 10.0: 1240
+Read 22.7: 283
+Write 1675 -> 7.3 : ok
+Read 19.2: 1804
+Write 1355 -> 28.7 : ok
+Write 1508 -> 3.5 : ok
+Read 29.6: 1087
+Read 6.2: 1699
+Write 1136 -> 31.2 : failed
+Read 28.4: 328
+Read 10.1: 1738
+Read 3.6: 1505
+Read 23.0: 1650
+Read 47.18: failed
+Read 16.1: 1792
+Read 20.5: 1264
+Write 1027 -> 28.3 : ok
+Read 31.2: failed
+Write 1580 -> 24.1 : ok
+Read 16.6: 1620
+Read 0.3: 1879
+Write 1160 -> 22.0 : ok
+Read 4.0: 1757
+Read 2.5: 1380
+Read 6.4: 1126
+Read 4.0: 1757
+Read 15.0: 1987
+Read 21.0: 1157
+Write 1601 -> 16.6 : ok
+Write 1175 -> 14.5 : ok
+Read 1.3: 1584
+Write 1845 -> 22.4 : ok
+Read 5.0: 1635
+Read 31.4: failed
+Read 25.2: 1052
+Read 30.4: 1437
+Write 1809 -> 28.4 : ok
+Write 1523 -> 20.3 : ok
+Read 30.4: 1437
+Read 11.4: 1959
+Write 1513 -> 1.6 : ok
+Write 1827 -> 13.4 : ok
+Read 1.4: 1127
+Read 2.5: 1380
+Read 0.6: 1974
+Read 2.0: 1436
+Read 18.0: 1278
+Write 1094 -> 23.6 : ok
+Write 1320 -> 2.2 : ok
+Read 7.7: 1989
+Read 48.12: failed
+Read 3.1: 1531
+Read 23.7: 1864
+Read 26.7: 1747
+Read 0.7: 1573
+Read 29.3: 1145
+Read 15.5: 1523
+Read 10.4: 1308
+Write 1480 -> 13.6 : ok
+Read 20.4: 1777
+Read 9.5: 1303
+Read 19.7: 1258
+Write 1558 -> 19.3 : ok
+Read 7.7: 1989
+Read 9.4: 1809
+Read 27.4: 1586
+Read 1.3: 1584
+Read 12.7: 1459
+Read 4.3: 1565
+Read 23.7: 1864
+Read 4.5: 1007
+Read 6.3: 1901
+Read 2.4: 1897
+Read 15.6: 1173
+Read 7.1: 1120
+Read 17.4: 1925
+Read 12.7: 1459
+Read 28.7: 1355
+Read 21.6: 1970
+Read 8.7: 1182
+Read 16.2: 1561
+Read 26.3: 1216
+Write 1984 -> 2.2 : ok
+Read 27.2: 1137
+Read 4.2: 1664
+Read 0.7: 1573
+Read 22.5: 1913
+Read 8.0: 1656
+Read 21.0: 1157
+Write 1541 -> 26.3 : ok
+Read 26.3: 1541
+Read 13.0: 1788
+Write 1078 -> 24.2 : ok
+Write 1524 -> 39.18 : failed
+Read 18.0: 1278
+Read 11.5: 1843
+Read 27.4: 1586
+Read 28.0: 1875
+Read 23.1: 1896
+Read 13.3: 1330
+Write 1236 -> 27.1 : ok
+Read 5.1: 1795
+Read 15.7: 1956
+Read 19.7: 1258
+Read 31.2: failed
+Write 1436 -> 27.1 : ok
+Write 1655 -> 19.2 : ok
+Read 4.1: 1261
+Read 2.7: 1180
+Read 29.4: 1150
+Read 24.4: 1335
+Read 4.4: 1984
+Read 0.5: 1986
+Read 19.2: 1655
+Read 5.1: 1795
+Read 0.3: 1879
+Write 1435 -> 3.2 : ok
+Read 25.7: 1633
+Read 28.7: 1355
+Read 9.2: 1129
+Read 30.6: 1774
+Read 24.15: failed
+Read 20.12: failed
+Read 25.3: 1210
+Read 7.7: 1989
+Read 0.1: 1663
+Read 1.5: 1435
+Read 30.2: 1406
+Read 10.4: 1308
+Read 5.3: 1943
+Write 1625 -> 1.7 : ok
+Read 22.0: 1160
+Read 28.1: 1265
+Read 10.2: 1088
+Read 16.5: 1948
+Write 1279 -> 5.7 : ok
+Write 1404 -> 5.4 : ok
+Read 25.3: 1210
+Read 15.1: 1862
+Read 23.4: 1475
+Read 23.4: 1475
+Write 1425 -> 27.1 : ok
+Read 1.0: 1925
+Read 20.3: 1523
+Read 1.7: 1625
+Read 14.1: 1502
+Read 4.7: 1493
+Read 29.4: 1150
+Read 17.6: 1849
+Read 0.0: 1103
+Read 30.6: 1774
+Read 2.4: 1897
+Read 13.4: 1827
+Read 47.12: failed
+Read 31.9: failed
+Read 13.0: 1788
+Write 1976 -> 25.3 : ok
+Read 20.0: 1030
+Read 16.4: 1401
+Read 0.2: 1154
+Read 4.2: 1664
+Read 7.2: 1130
+Read 25.3: 1976
+Write 1746 -> 12.1 : ok
+Write 1223 -> 4.1 : ok
+Read 28.2: 1507
+Read 2.7: 1180
+Read 31.6: failed
+Read 30.7: 1691
+Read 10.4: 1308
+Read 10.4: 1308
+Read 31.6: failed
+Read 26.5: 1031
+Write 1725 -> 8.1 : ok
+Read 34.6: failed
+Read 4.3: 1565
+Read 7.3: 1675
+Read 24.4: 1335
+Read 10.6: 1119
+Write 1852 -> 19.0 : ok
+Read 16.2: 1561
+Read 0.4: 1748
+Read 16.3: 1676
+Read 26.2: 1437
+Write 1771 -> 8.0 : ok
+Read 0.0: 1103
+Read 3.1: 1531
+Read 21.1: 1852
+Read 17.1: 1119
+Read 22.1: 1390
+Write 1127 -> 29.3 : ok
+Read 8.2: 1844
+Read 10.3: 1424
+Read 19.3: 1558
+Read 13.7: 1431
+Read 19.1: 1408
+Read 19.4: 1544
+Read 25.0: 300
+Write 1872 -> 19.0 : ok
+Read 22.7: 283
+Read 3.1: 1531
+Read 15.7: 1956
+Read 11.6: 1363
+Read 18.5: 1470
+Read 19.1: 1408
+Read 28.0: 1875
+Read 10.6: 1119
+Read 18.3: 1124
+Write 1543 -> 9.2 : ok
+Read 15.1: 1862
+Read 15.6: 1173
+Read 7.3: 1675
+Read 10.2: 1088
+Read 28.0: 1875
+Read 15.7: 1956
+Write 1105 -> 7.1 : ok
+Write 1306 -> 10.3 : ok
+Read 15.3: 1317
+Write 1808 -> 40.18 : failed
+Read 25.7: 1633
+Read 5.3: 1943
+Read 2.3: 1236
+Read 15.0: 1987
+Write 1259 -> 18.1 : ok
+Read 32.9: failed
+Read 4.3: 1565
+Read 19.0: 1872
+Read 29.0: 1963
+Read 6.3: 1901
+Write 1536 -> 8.4 : ok
+Read 2.3: 1236
+Read 17.6: 1849
+Write 1560 -> 28.4 : ok
+Read 23.2: 286
+Write 1459 -> 0.7 : ok
+Write 1644 -> 20.6 : ok
+Read 1.3: 1584
+Read 26.7: 1747
+Read 29.0: 1963
+Read 6.0: 1478
+Read 18.7: 1689
+Write 1325 -> 16.6 : ok
+Read 12.3: 1118
+Read 9.2: 1543
+Read 24.5: 1600
+Write 1217 -> 17.1 : ok
+Read 11.3: 1651
+Read 29.5: 1212
+Read 6.6: 1579
+Read 21.0: 1157
+Write 1572 -> 31.3 : failed
+Read 28.0: 1875
+Read 23.2: 286
+Read 15.1: 1862
+Read 17.7: 1996
+Read 9.2: 1543
+Read 11.5: 1843
+Read 0.5: 1986
+Read 18.4: 1597
+Read 22.0: 1160
+Read 28.1: 1265
+Read 24.4: 1335
+Read 14.2: 1754
+Read 31.0: failed
+Write 1646 -> 21.0 : ok
+Read 21.6: 1970
+Write 1272 -> 15.4 : ok
+Read 7.6: 1551
+Read 17.2: 1420
+Read 9.6: 1415
+Read 10.7: 1225
+Read 26.6: 1906
+Read 23.3: 1416
+Read 0.3: 1879
+Read 4.1: 1223
+Read 11.6: 1363
+Read 5.0: 1635
+Read 22.3: 1412
+Read 31.2: failed
+Read 12.3: 1118
+Read 31.6: failed
+Read 31.4: failed
+Read 31.7: failed
+Read 16.6: 1325
+Read 6.5: 1165
+Read 12.6: 1213
+Write 1351 -> 1.6 : ok
+Read 28.4: 1560
+Read 19.3: 1558
+Read 7.3: 1675
+Write 1174 -> 28.6 : ok
+Read 12.0: 1012
+Read 23.4: 1475
+Read 26.2: 1437
+Read 13.7: 1431
+Write 1180 -> 11.0 : ok
+Read 18.6: 1306
+Read 3.2: 1435
+Read 26.7: 1747
+Read 50.18: failed
+Read 25.5: 1825
+Read 27.7: 1087
+Read 13.1: 1770
+Read 42.6: failed
+Read 16.0: 1079
+Read 8.2: 1844
+Write 1400 -> 25.6 : ok
+Read 5.6: 1374
+Read 9.2: 1543
+Read 31.5: failed
+Write 1297 -> 31.2 : failed
+Read 22.7: 283
+Read 19.4: 1544
+Read 9.2: 1543
+Read 14.0: 1450
+Read 22.6: 1276
+Read 20.2: 1800
+Read 17.7: 1996
+Read 8.1: 1725
+Write 1055 -> 9.2 : ok
+Read 24.5: 1600
+Write 1901 -> 28.2 : ok
+Read 31.1: failed
+Read 19.1: 1408
+Read 1.6: 1351
+Read 14.2: 1754
+Read 25.3: 1976
+Read 22.2: 1186
+Read 13.1: 1770
+Write 1129 -> 17.5 : ok
+Read 22.5: 1913
+Write 1796 -> 27.6 : ok
+Read 6.0: 1478
+Read 22.6: 1276
+Read 38.15: failed
+Read 16.1: 1792
+Write 1476 -> 31.1 : failed
+Write 1879 -> 31.0 : failed
+Read 17.7: 1996
+Read 5.1: 1795
+Read 28.2: 1901
+Write 1576 -> 20.4 : ok
+Read 22.1: 1390
+Write 1612 -> 10.5 : ok
+Write 1980 -> 21.15 : failed
+Write 1403 -> 25.2 : ok
+Read 22.18: failed
+Read 8.6: 170
+Read 4.2: 1664
+Write 1163 -> 6.3 : ok
+Write 1595 -> 24.1 : ok
+Read 4.5: 1007
+Read 2.6: 1554
+Write 1530 -> 11.7 : ok
+Read 19.3: 1558
+Write 1969 -> 29.0 : ok
+Read 1.1: 1899
+Read 14.2: 1754
+Read 16.7: 1014
+Read 29.1: 1781
+Read 18.6: 1306
+Read 11.1: 1420
+Read 5.0: 1635
+Read 20.7: 1450
+Read 3.0: 1558
+Read 14.7: 1592
+Read 1.6: 1351
+Write 1304 -> 6.6 : ok
+Read 0.5: 1986
+Read 30.2: 1406
+Read 21.4: 1903
+Read 15.2: 1889
+Read 26.6: 1906
+Read 39.3: failed
+Read 16.2: 1561
+Read 15.6: 1173
+Read 1.7: 1625
+Read 23.5: 1315
+Read 8.4: 1536
+Write 1976 -> 27.5 : ok
+Read 0.2: 1154
+Read 27.0: 1111
+Write 1978 -> 13.1 : ok
+Read 6.6: 1304
+Read 16.4: 1401
+Read 10.0: 1240
+Write 1488 -> 24.1 : ok
+Read 19.3: 1558
+Write 1229 -> 50.21 : failed
+Read 7.1: 1105
+Write 1375 -> 12.7 : ok
+Read 5.7: 1279
+Read 1.6: 1351
+Read 9.3: 1586
+Read 21.4: 1903
+Read 10.7: 1225
+Read 19.5: 1160
+Read 20.3: 1523
+Read 1.4: 1127
+Write 1825 -> 13.7 : ok
+Write 1451 -> 21.4 : ok
+Read 27.15: failed
+Read 22.2: 1186
+Read 22.5: 1913
+Read 6.6: 1304
+Read 17.2: 1420
+Read 6.4: 1126
+Read 24.2: 1078
+Read 21.6: 1970
+Read 6.1: 149
+Write 1851 -> 27.9 : failed
+Write 1794 -> 14.2 : ok
+Read 30.1: 1567
+Read 24.2: 1078
+Write 1522 -> 8.0 : ok
+Read 5.3: 1943
+Read 11.3: 1651
+Read 16.4: 1401
+Read 13.4: 1827
+Read 6.1: 149
+Read 23.1: 1896
+Read 3.6: 1505
+Read 28.0: 1875
+Write 1401 -> 24.2 : ok
+Write 1325 -> 1.5 : ok
+Read 28.5: 1495
+Write 1848 -> 13.0 : ok
+Read 28.6: 1174
+Read 11.0: 1180
+Read 28.7: 1355
+Read 10.7: 1225
+Read 5.7: 1279
+Read 10.1: 1738
+Read 4.2: 1664
+Read 5.0: 1635
+Read 3.7: 1805
+Read 19.2: 1655
+Read 5.1: 1795
+Read 5.7: 1279
+Read 13.1: 1978
+Read 11.6: 1363
+Write 1606 -> 8.3 : ok
+Read 7.0: 1580
+Read 24.7: 299
+Read 0.5: 1986
+Read 19.3: 1558
+Read 2.6: 1554
+Read 8.4: 1536
+Read 19.3: 1558
+Read 19.2: 1655
+Read 4.5: 1007
+Write 1379 -> 25.4 : ok
+Read 11.7: 1530
+Read 16.3: 1676
+Write 1148 -> 24.0 : ok
+Write 1595 -> 20.0 : ok
+Read 31.0: failed
+Read 21.6: 1970
+Write 1135 -> 23.4 : ok
+Read 0.1: 1663
+Read 3.5: 1508
+Write 1758 -> 9.2 : ok
+Read 25.3: 1976
+Read 22.1: 1390
+Read 2.1: 1151
+Write 1181 -> 2.6 : ok
+Read 27.7: 1087
+Write 1234 -> 7.2 : ok
+Write 1999 -> 31.5 : failed
+Read 12.4: 1578
+Read 19.6: 1558
+Read 4.3: 1565
+Write 1095 -> 25.2 : ok
+Read 0.1: 1663
+Read 15.0: 1987
+Read 5.4: 1404
+Read 31.6: failed
+Read 20.5: 1264
+Read 18.2: 1307
+Read 23.5: 1315
+Read 15.3: 1317
+Write 1384 -> 3.3 : ok
+Write 1085 -> 28.6 : ok
+Read 26.0: 1786
+Read 31.1: failed
+Read 30.18: failed
+Read 8.5: 1815
+Read 13.0: 1848
+Read 17.2: 1420
+Read 11.3: 1651
+Read 15.3: 1317
+Read 7.0: 1580
+Read 18.7: 1689
+Read 31.4: failed
+Write 1719 -> 26.2 : ok
+Read 26.3: 1541
+Read 4.4: 1984
+Read 22.7: 283
+
+4601
+87.33
+74.38

@@ -18,18 +18,6 @@ int main()
     int *ip;
     char fileName[40], buffer[4];
 
-    //Checking 32-bit vs 64-bit. Do not remove!
-    printf("Integer size is %d bytes. Should be 4 bytes (32-bit).\n",
-            sizeof(int));
-
-    if (sizeof(int) != 4){
-        printf("64-bit environment detected!\n");
-        printf("Please recompile with \"-m32\" flag\n");
-        exit(1);
-    }
-
-    //Program proper
-    printf("File Name: ");
     scanf("%s", fileName);
 
     //Open file for read only
@@ -37,9 +25,24 @@ int main()
 
     //TODO:Check for valid file
     if(fdIn < 0) {
-	printf("Cannot Open \n");
+	printf("File Name: Cannot Open\n");
 	return 0;
     }
+
+   //Program proper
+    //Checking 32-bit vs 64-bit. Do not remove!
+    printf("Integer size is %d bytes. Should be 4 bytes (32-bit).\n",
+            sizeof(int));
+
+    printf("File Name: ");
+
+    if (sizeof(int) != 4){
+        printf("64-bit environment detected!\n");
+        printf("Please recompile with \"-m32\" flag\n");
+        exit(1);
+    }
+
+ 
 
     //TODO:Calculate the file size
 

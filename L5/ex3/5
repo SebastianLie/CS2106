@@ -1,0 +1,13 @@
+Integer is 4 bytes. Should be 4-bytes (32-bit).
+Enter swap file name: Enter program file to run: Enter number of memory access: Read 0.0: 100
+Write 12345 -> 0.0 : ok
+Read 31.0: failed
+Write 777 -> 31.0 : failed
+Read 5.12: failed
+Write 12345 -> 5.12 : failed
+Read 31.10: failed
+Write 12345 -> 31.10 : failed
+
+2
+50.00
+50.00
